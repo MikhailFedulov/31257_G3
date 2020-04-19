@@ -50,18 +50,18 @@ To measure the project success and whether the project objectives have been sati
 to be monitored over a period of 1 year and analysed against the performance of the legacy software. 
 
 Improve customer experience
-*Customer Satisfaction
-*Churn Rate
-*Retention Rate
+* Customer Satisfaction
+* Churn Rate
+* Retention Rate
 
 Increase travel packages sales
-*Number of packages sold
-*Individual RM’s average sales
-*Sales Growth Increase
+* Number of packages sold
+* Individual RM’s average sales
+* Sales Growth Increase
 
 Minimise costs of inbound calls
-*Savings
-*Cost Reduction
-*Cost Avoidance
+* Savings
+* Cost Reduction
+* Cost Avoidance
 
 
