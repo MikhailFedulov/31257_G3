@@ -64,9 +64,9 @@ Minimise costs of inbound calls
 * Cost Reduction
 * Cost Avoidance
 
-##Stakeholders
+## Stakeholders
 
-###Internal Stakeholders
+### Internal Stakeholders
 * Major travel Company executive team
 The head executive team of the major travel company. They will ultimately have the final say over the entire project as they hold the highest authority within the company. They are responsible for ensuring the company investors and shareholders are adequately satisfied with the businesses current projects
 
@@ -79,7 +79,7 @@ The management personnel overseeing the CMC department. They are responsible for
 * System developers
 
 
-###External Stakeholders
+### External Stakeholders
 * Customers
 Customers pertain to any individual who will be utilizing the product upon its release. As these individuals are the companies target for sales, they are paramount to the solutions success from implementation onwards as well as the businesses ongoing success.
 
