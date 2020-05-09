@@ -6,7 +6,7 @@
 * add student number(Marcus Huth)
 * 12590143 (Mikhail Fedulov)
 
-![Image of Yaktocat](https://ibb.co/tmMLwyN)
+![Call Centre](the-skills-your-call-center-training-should-focus-on.jpg)
 
 ## Current Problem and Objectives of the Project
 
