@@ -6,7 +6,7 @@
 * add student number(Marcus Huth)
 * 12590143 (Mikhail Fedulov)
 
-![alt text](https://ibb.co/tmMLwyN)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Current Problem and Objectives of the Project
 
