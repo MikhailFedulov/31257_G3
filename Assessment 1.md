@@ -96,3 +96,4 @@ Competitors in the space it is important to analyze the industry landscape and i
 Key | Stakeholder | User Story | Estimates | Priority 
 ------------ | ------------- | ------------- | ------------- | -------------
 101 | Relationship Manager | As a Relationship Manager I would like to be able to see a summary of sales pre day/week/month/year so that I can track my progress and report it to the management. | 1 | Medium 
+102 | Relationship Manager | As a Relationship Manager I would like to be able to view customers profiles so that I can understand the customer situation better. | 1 | High
