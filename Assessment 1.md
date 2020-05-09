@@ -6,6 +6,7 @@
 * add student number(Marcus Huth)
 * 12590143 (Mikhail Fedulov)
 
+![alt text](https://ibb.co/tmMLwyN)
 
 ## Current Problem and Objectives of the Project
 
