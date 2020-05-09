@@ -99,7 +99,7 @@ Key | Stakeholder | User Story | Estimates | Priority
 102 | Relationship Manager | As a Relationship Manager I would like to be able to view customers profiles so that I can understand the customer situation better. | 1 | High
 103 |Relationship Manager | As a Relationship Manager I would like to be able to edit customers profiles so that I can keep their profiles up to date. | 1 | High
 104 | Relationship Manager | As a Relationship Manager I would like to be able to get a list of potential customers to get in touch with from the system so that I can be more efficient at my work. | 1 | Medium
-105 | As a Relationship Manager I would like to be able to record a number of successful calls made with proposed customers so that I can track the performance. | 1 | Medium
+105 | Relationship Manager | As a Relationship Manager I would like to be able to record a number of successful calls made with proposed customers so that I can track the performance. | 1 | Medium
 106 | Relationship Manager | As a Relationship Manager I would like the system to direct customer calls to me based on our compatibility so that I can assist with their queries quicker and customise the answer. | 1 | High
 107 | Relationship Manager | As a Relationship Manager I would like the system to assign each customer a score based on likelihood to purchase the product is given to the customer according to some preloaded criteria (repeat customer, customer from particular postcode) so that I get the most perfect match. | 1 | medium
 108 | Relationship Manager | As a Relationship Manager I would like the system to retrieve customers details from the database so that I can optimise my time managing customers information. | 1 | High
