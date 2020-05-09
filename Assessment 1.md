@@ -90,3 +90,9 @@ Those that fund the companies ventures and have financial stakes in the on going
 
 * Competitors
 Competitors in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
+
+
+### User Stories 
+Key | Stakeholder | User Story | Estimates | Priority 
+------------ | ------------- | ------------- | ------------- | -------------
+101 | Relationship Manager | As a Relationship Manager I would like to be able to see a summary of sales pre day/week/month/year so that I can track my progress and report it to the management. | 1 | Medium 
