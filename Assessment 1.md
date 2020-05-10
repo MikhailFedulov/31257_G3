@@ -3,7 +3,7 @@
 
 * 12910321(Jett Hendry)
 * add student number(Matthew Fouad)
-* add student number(Marcus Huth)
+* 13381177 (Marcus Huth)
 * 12590143 (Mikhail Fedulov)
 
 
@@ -102,3 +102,7 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
 **Competitors** | Gaining competitive advantage; Increasing market share | Low/Medium – competitors approaches to customer relation management should be analysed and compared to the proposed system, but not necessarily dictate the new systems architecture  | 3 (Low)
+
+
+### Stakeholder Interest & Influence Grid
+![alt text](https://github.com/MikhailFedulov/31257_G3/blob/Marcus-Huth/Stakeholder%20Matrix%20Complete.png "Stakeholder Influence & Influence Grid")
