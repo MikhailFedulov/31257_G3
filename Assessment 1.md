@@ -90,3 +90,15 @@ Those that fund the companies ventures and have financial stakes in the on going
 
 * Competitors
 Competitors in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
+
+
+### Stakeholder Analysis Table
+Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - Low)
+--- | --- | --- | ---
+**MTC Executive Team** | Overall profitability; Satisfaction of investors/shareholders; Achieving targets | Medium/High – have the final say regarding all financial and executive decisions on the project | 2 (High)
+**Relationship Managers (RMs)** | Maintaining positive customer relationships; Maximising sales; Address needs of customers | High – with regard to their position influence is relatively minor. However, they are directly impacted in their ability to perform their role by new system so input from them is important | 1 (Critical)
+**CMC Managment Team** | Minimal disruption to services; Efficient allocation of resources (time, physical, monetary) | Low/Medium – oversee the entirety of CMC and indirectly involved in rollout and maintenance of system | 3 (Low)
+**Projects Team** | Satisfaction of user requirements; Smooth rollout of system; Adherence to development timeline | High – tasked with and responsible for the design and implementation of the new system | 1 (Critical)
+**Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
+**Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
+**Competitors** | Gaining competitive advantage; Increasing market share | Low/Medium – competitors approaches to customer relation management should be analysed and compared to the proposed system, but not necessarily dictate the new systems architecture  | 3 (Low)
