@@ -196,3 +196,29 @@ _**RM:** Glad to have helped!_
 ![Customer 2](images/interview_customer/Customer_2.png)
 ![Customer 3](images/interview_customer/Customer_3.png)
 ![Customer 4](images/interview_customer/Customer_4.png)
+
+### User Stories
+Key | Stakeholder | User Story | Estimates | Priority
+------------ | ------------- | ------------- | ------------- | -------------
+101 | Relationship Manager | As a Relationship Manager I would like to be able to see a summary of sales pre day/week/month/year so that I can track my progress and report it to the management. | 1 | Medium
+102 | Relationship Manager | As a Relationship Manager I would like to be able to view customers profiles so that I can understand the customer situation better. | 1 | High
+103 |Relationship Manager | As a Relationship Manager I would like to be able to edit customers profiles so that I can keep their profiles up to date. | 1 | High
+104 | Relationship Manager | As a Relationship Manager I would like to be able to get a list of potential customers to get in touch with from the system so that I can be more efficient at my work. | 1 | Medium
+105 | Relationship Manager | As a Relationship Manager I would like to be able to record a number of successful calls made with proposed customers so that I can track the performance. | 1 | Medium
+106 | Relationship Manager | As a Relationship Manager I would like the system to direct customer calls to me based on our compatibility so that I can assist with their queries quicker and customise the answer. | 1 | High
+107 | Relationship Manager | As a Relationship Manager I would like the system to assign each customer a score based on likelihood to purchase the product is given to the customer according to some preloaded criteria (repeat customer, customer from particular postcode) so that I get the most perfect match. | 1 | medium
+108 | Relationship Manager | As a Relationship Manager I would like the system to retrieve customers details from the database so that I can optimise my time managing customers information. | 1 | High
+201 | MTC executives | As a MTC executive team we would like the system to be able to produce high level reports of CMC performance including costs, revenues, profits, and overall portfolio summary so that we can monitor performance and make strategic decisions. | 1 | High
+202 | MTC executives | As a MTC executive team we would like the system to direct customer to Interactive Voice Response IVR during busy times so that we can optimise the CMC performance and keep customers on the line and engaged. | 1 | Low
+203 | MTC executives | As a MTC executive team we would like the system to prompt options to customers during IVR including reasons for calls and then redirect to the Automatic Call Distributor routing which will assign the first available RM to answer the call. | 1 | Low
+204 | MTC executives | As a MTC executive team we would like the system to manage both inbound and outbound calls so that CMC performance is optimized. | 1 | High
+205 | MTC executives | As a MTC executive team we would like the system routing and distribution routing that minimizes inbound call costs by reducing per-call handling time so that we can cut unnecessary costs. | 1 | Medium
+301 | CMC management | As a CMC management team we would like the system to be able to produce summary reports on Relationship Management performance so that we can analyse what training to provide to them. | 1 | Low
+302 | CMC management | As a CMC management team we would like the system to be able to show a summary of all managed Relationship Managers performance so that we can track each team's sales and work hours. | 1 | High
+303 | CMC management | As a CMC management team we would like the system to be able to track the working hours of Relationship Managers so that we can track performance and communicate this information with payroll. | 1 | Medium
+304 | CMC management | As a CMC management team we would like the system to be able record conversations between customers and Relationship Managers so that it can be used later for training purposes. | 1 | Low
+305 | CMC management | As a CMC management team we would like the system to show Relationship Managers individual profiles so that we can view and edit details as necessary. | 1 | Medium
+306 | CMC management | As a CMC management team we would like the system to assign each Relationship Manager a skill score from 1-10  calculated based on RM’s previous call duration and profile. | 1 | Medium
+307 | CMC management | As a CMC management team we would like the system to access Relationship Managers profiles from Portfolier Tool so that we can communicate information easily with HR. | 1 | High
+308 | MTC customer | As a MTC customer I would like to get in touch with a Relationship Manager over phone so that they can assist with  my query. | 1 | High
+309 | MTC customer | As a MTC customer I would like my call to be answered as quickly as possible by the Relationship Manager so that my query will be resolved efficiently. | 1 | High
