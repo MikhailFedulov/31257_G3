@@ -2,7 +2,7 @@
 
 
 * 12910321(Jett Hendry)
-* add student number(Matthew Fouad)
+* 12933610 (Matthew Fouad)
 * 13381177 (Marcus Huth)
 * 12590143 (Mikhail Fedulov)
 
@@ -237,3 +237,10 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 
 ### Stakeholder Interest & Influence Grid
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete.png)
+
+## Stakeholder Empathy Maps
+## RM Empathy Map
+![RM empathy map](images/Empathy_Map_RM.png)
+
+## Customer Empathy Map
+![Customer empathy map](images/Empathy_Map_Customer.png)
