@@ -64,9 +64,9 @@ Minimise costs of inbound calls
 * Cost Reduction
 * Cost Avoidance
 
-##Stakeholders
+## Stakeholders
 
-###Internal Stakeholders
+### Internal Stakeholders
 * Major travel Company executive team
 The head executive team of the major travel company. They will ultimately have the final say over the entire project as they hold the highest authority within the company. They are responsible for ensuring the company investors and shareholders are adequately satisfied with the businesses current projects
 
@@ -79,7 +79,7 @@ The management personnel overseeing the CMC department. They are responsible for
 * System developers
 
 
-###External Stakeholders
+### External Stakeholders
 * Customers
 Customers pertain to any individual who will be utilizing the product upon its release. As these individuals are the companies target for sales, they are paramount to the solutions success from implementation onwards as well as the businesses ongoing success.
 
@@ -92,10 +92,10 @@ Those that fund the companies ventures and have financial stakes in the on going
 Competitors in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
 
 
-##Stakeholder Role Play Interviews
+## Stakeholder Role Play Interviews
 
-###INTERVIEWER QUESTIONS
-###Generic
+### INTERVIEWER QUESTIONS
+### Generic
 * Introductory Questions
     1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
     2. To start off, how are you?
@@ -122,7 +122,7 @@ Competitors in the space it is important to analyze the industry landscape and i
 * Closing formalities
    Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service.
 
-###RM Interview Script
+### RM Interview Script
 Interviewer: Good Afternoon I’m Hugh, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
    *RM: Not at all go ahead*
 Interviewer: To start off, how are you
@@ -149,7 +149,7 @@ Interviewer: Do you think matching Customers to you based on perceived knowledge
 Interviewer: Thank You so much for your time today, your feedback will be a great help and We’ll ensure it is all considered in the new systems development, have a great day
    *RM: Thank you, you too*
 
-###Customer Interview Script
+### Customer Interview Script
 Interviewer: Good Afternoon I’m Jett, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
 	*RM: No that’s quite alright*
 Interviewer: To start off, how are you?
@@ -174,4 +174,4 @@ Interviewer: On a scale of 1-10 how satisfied are you with our call representati
 Interviewer: What are some of the pain points you have experienced during the booking process?
   *RM: Like I said before, the negative areas are generally based around wait times and the reps occasionally being unable to help me without contacting a supervisor or colleague*
 Interviewer: Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service
-  *RM: Glad to have helped! 
+  *RM: Glad to have helped!
