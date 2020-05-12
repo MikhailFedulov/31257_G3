@@ -96,30 +96,30 @@ Competitors in the space it is important to analyze the industry landscape and i
 
 ### INTERVIEWER QUESTIONS
 ### Generic
-* Introductory Questions
+Introductory Questions
     1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
     2. To start off, how are you?
 
-* Generic for both stakeholders
+Generic for both stakeholders
     3. What do you primarily use our service for?
     4. What is your biggest issue with the current system of call management?
     5. Are there any aspects of the current system you wish to remain intact in the change?
     6. What is the most important thing you would like to see added in the new system?
     7. What is your biggest concern with the proposed project?
 
-* RM Specific Questions
+RM Specific Questions
     8. Do you think the implementation of the new system will have noticeable hindrance to productivity during the change period ?
     9. How comfortable are you learning a new system and are there any actions that can be taken to ease this transition?
     10. What criteria do you think will be important in the grouping of RM speciality?
     11. Do you think matching Customers to you based on perceived knowledge will improve call efficiency?
 
-* Customer specific
+Customer specific
     8. What do you look for in a call experience?
     9. Currently how satisfied are you with the call time required for booking?
     10. On a scale of 1-10 how satisfied are you with our call representatives knowledge of what you’re seeking?
     11. What are some of the pain points you have experienced during the booking process?
 
-* Closing formalities
+Closing formalities
    Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service.
 
 ### RM Interview Script
