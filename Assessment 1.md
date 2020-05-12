@@ -177,3 +177,15 @@ _**RM:** I would say maybe a six or seven. The majority of interactions I’ve h
 _**RM:** Like I said before, the negative areas are generally based around wait times and the reps occasionally being unable to help me without contacting a supervisor or colleague_  
 **Interviewer:** Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service  
 _**RM:** Glad to have helped!_
+
+### RM Interview Screenshots  
+![RM 1](images/interview_RM/RM_1.png)
+![RM 2](images/interview_RM/RM_2.png)
+![RM 3](images/interview_RM/RM_3.png)
+![RM 4](images/interview_RM/RM_4.png)
+
+### Customer Interview Screenshots
+![Customer 1](images/interview_customer/Customer_1.png)
+![Customer 2](images/interview_customer/Customer_2.png)
+![Customer 3](images/interview_customer/Customer_3.png)
+![Customer 4](images/interview_customer/Customer_4.png)
