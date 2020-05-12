@@ -197,7 +197,7 @@ _**RM:** Glad to have helped!_
 ![Customer 3](images/interview_customer/Customer_3.png)
 ![Customer 4](images/interview_customer/Customer_4.png)
 
-### User Stories
+## User Stories
 Key | Stakeholder | User Story | Estimates | Priority
 ------------ | ------------- | ------------- | ------------- | -------------
 101 | Relationship Manager | As a Relationship Manager I would like to be able to see a summary of sales pre day/week/month/year so that I can track my progress and report it to the management. | 1 | Medium
@@ -223,7 +223,7 @@ Key | Stakeholder | User Story | Estimates | Priority
 308 | MTC customer | As a MTC customer I would like to get in touch with a Relationship Manager over phone so that they can assist with  my query. | 1 | High
 309 | MTC customer | As a MTC customer I would like my call to be answered as quickly as possible by the Relationship Manager so that my query will be resolved efficiently. | 1 | High
 
-### Stakeholder Analysis Table
+## Stakeholder Analysis Table
 Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - Low)
 --- | --- | --- | ---
 **MTC Executive Team** | Overall profitability; Satisfaction of investors/shareholders; Achieving targets | Medium/High – have the final say regarding all financial and executive decisions on the project | 2 (High)
@@ -235,5 +235,12 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Competitors** | Gaining competitive advantage; Increasing market share | Low/Medium – competitors approaches to customer relation management should be analysed and compared to the proposed system, but not necessarily dictate the new systems architecture  | 3 (Low)
 
 
-### Stakeholder Interest & Influence Grid
+## Stakeholder Interest & Influence Grid
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete.png)
+
+## Stakeholder Empathy Maps
+### RM Empathy Map
+![RM empathy map](images/Empathy_Map_RM.png)
+
+### Customer Empathy Map
+![Customer empathy map](images/Empathy_Map_Customer.png)
