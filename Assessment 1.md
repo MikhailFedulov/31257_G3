@@ -1,10 +1,10 @@
 # Travel Company CMC Upgrade Proposition Report
 
 
-* 12910321(Jett Hendry)
-* add student number(Matthew Fouad)
-* 13381177 (Marcus Huth)
-* 12590143 (Mikhail Fedulov)
+* _12910321(Jett Hendry)_
+* _12933610(Matthew Fouad)_
+* _13381177 (Marcus Huth)_
+* _12590143 (Mikhail Fedulov)_
 
 ![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
 
@@ -65,43 +65,37 @@ Minimise costs of inbound calls
 * Cost Reduction
 * Cost Avoidance
 
-## Stakeholders
+## Stakeholders POV
 
 ### Internal Stakeholders
-* Major travel Company executive team
-The head executive team of the major travel company. They will ultimately have the final say over the entire project as they hold the highest authority within the company. They are responsible for ensuring the company investors and shareholders are adequately satisfied with the businesses current projects
+* **Major travel Company executive team**  
+The **executive team of the major travel company**. They will ultimately have the final say over the entire project as they hold the highest authority within the company. The MTC executive team **needs** the proposed system to improve the sales figures of the CMC centre and increase the positive reception of the CMC experience by the customer **because** They are responsible for ensuring the company investors and shareholders are adequately satisfied with the businesses current projects.
 
-* RM (Relationship Managers)
-The employees that currently work in the CMC department. They are tasked with providing support and ensuring sales to customers calling in. The proposed CMC upgrade solution will directly affect these stakeholders day to day work efficiency and therefore they will be high priority points of contact in project solution development feedback.
+* **RM (Relationship Managers)**
+The **Relational Managers** are employees that currently work in the CMC department. They are tasked with providing support and ensuring sales to customers calling in. The proposed CMC upgrade solution will directly affect these stakeholders day to day work efficiency and therefore they will be high priority points of contact in project solution development feedback. The RM **needs** a system that is capable of finding customers with requirements that directly correlate with their own knowledge **because** RMs as we found during roleplay are far more confident in their sales ability if their knowledge is relevant.
 
-* CMC management
-The management personnel overseeing the CMC department. They are responsible for the efficient functioning of the travel companies call center operations. As they are also closely associated with the utilization of the finished CMC solution they will be consulted regularly alongside the RMs during project development
+* **CMC management**  
+The **CMC Management** is the personnel overseeing the CMC department. They are responsible for the efficient functioning of the travel companies call center operations. As they are also closely associated with the utilization of the finished CMC solution they will be consulted regularly alongside the RMs during project development. The CMC Management **needs** a solution that reduces the need for manual micromanagement of RM’s and improves their RMs’s confidence in sales calls **because** the overall functioning of the CMC is a direct reflection on them, an increase in proficiency will affirm their departments importance.
 
-* Project Team
-The project team is a combination of internal and external resources and is responsible for the project implementation. They will be working closely with the other stakeholder during the project development.
-
-
-* Other CMC employees (Business Analysts, IT department, Cyber Security ect.)
-Difficulty they face when interacting with the system. Current system management, a lot of manual work.  
-
-* Internal resources available for the system development (Software Engineers, Scrum Managers, IT and Security analysts ect)
+* **Project Team**  
+The **project team** is a combination of internal and external resources and is responsible for the project implementation. They will be working closely with the other stakeholder during the project development. The project team **needs** to provide a solution which appeases all stakeholders needs **because** the quality and acceptance of the system will directly affect the  likelihood of their use in future projects.
 
 ### External Stakeholders
-* Customers
-Customers pertain to any individual who will be utilizing the product upon its release. As these individuals are the companies target for sales, they are paramount to the solutions success from implementation onwards as well as the businesses ongoing success.
 
-* External developers (contractors, external development company)
+* **Customers**  
+A **Customer** pertains to any individual who will be utilizing the product upon its release in order to make purchases. As these individuals are the companies target for sales, they are paramount to the solutions success from implementation onwards as well as the businesses ongoing success. The customer **needs** an improved efficiency in call management to reduce the on-line waiting times and when connected can ensure a high level of knowledge from the staff **because** these factors drastically affect the opinions and experiences of the customer in turn reflecting in sales numbers.
 
-* Company Investors and Shareholders
-Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution.
+* __Company Investors and Shareholders__  
+__Investors/Shareholders__ Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution. The investor/shareholder **needs** solutions that will directly increase their shares value in the market as well as future proof their investment in the business **because** ultimately, investors/shareholders are solely concerned with economic value and without them the business would lose funding.
 
-* Competitors
-Competitors in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
+
+* __Competitors__  
+__Competitors__ in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
 
 
 ## Stakeholder Role Play Interviews
 
-### INTERVIEWER QUESTIONS
+### Interviewer Questions
 ### Generic
 #### Introductory Questions
 1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
