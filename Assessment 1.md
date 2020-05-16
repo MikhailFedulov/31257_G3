@@ -1,13 +1,16 @@
+<div align="center">
+
 # Travel Company CMC Upgrade Proposition Report
 
+_12910321(Jett Hendry)_  
+_12933610(Matthew Fouad)_  
+_13381177 (Marcus Huth)_  
+_12590143 (Mikhail Fedulov)_
 
-* _12910321(Jett Hendry)_
-* _12933610(Matthew Fouad)_
-* _13381177 (Marcus Huth)_
-* _12590143 (Mikhail Fedulov)_
+</div>
 
 ![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
-
+___
 ## Current Problem and Objectives of the Project
 
 ### Background
@@ -64,7 +67,7 @@ Minimise costs of inbound calls
 * Savings
 * Cost Reduction
 * Cost Avoidance
-
+___
 ## Stakeholders POV
 
 ### Internal Stakeholders
@@ -190,8 +193,8 @@ _**RM:** Glad to have helped!_
 ![Customer 2](images/interview_customer/Customer_2.png)
 ![Customer 3](images/interview_customer/Customer_3.png)
 ![Customer 4](images/interview_customer/Customer_4.png)
-
-## User Stories
+___
+## User Story Backlog
 Key | Stakeholder | User Story | Estimates | Priority
 ------------ | ------------- | ------------- | ------------- | -------------
 101 | Relationship Manager | As a Relationship Manager I would like to be able to see a summary of sales pre day/week/month/year so that I can track my progress and report it to the management. | 1 | Medium
@@ -217,6 +220,8 @@ Key | Stakeholder | User Story | Estimates | Priority
 308 | MTC customer | As a MTC customer I would like to get in touch with a Relationship Manager over phone so that they can assist with  my query. | 1 | High
 309 | MTC customer | As a MTC customer I would like my call to be answered as quickly as possible by the Relationship Manager so that my query will be resolved efficiently. | 1 | High
 
+___
+
 ## Stakeholder Analysis Table
 Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - Low)
 --- | --- | --- | ---
@@ -228,13 +233,14 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
 **Competitors** | Gaining competitive advantage; Increasing market share | Low/Medium – competitors approaches to customer relation management should be analysed and compared to the proposed system, but not necessarily dictate the new systems architecture  | 3 (Low)
 
-
+___
 ## Stakeholder Interest & Influence Grid
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete.png)
-
+___
 ## Stakeholder Empathy Maps
 ### RM Empathy Map
 ![RM empathy map](images/Empathy_Map_RM.png)
 
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
+___
