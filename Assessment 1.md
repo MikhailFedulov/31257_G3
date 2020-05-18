@@ -84,6 +84,11 @@ The **CMC Management** is the personnel overseeing the CMC department. They are 
 * **Project Team**  
 The **project team** is a combination of internal and external resources and is responsible for the project implementation. They will be working closely with the other stakeholder during the project development. The project team **needs** to provide a solution which appeases all stakeholders needs **because** the quality and acceptance of the system will directly affect the  likelihood of their use in future projects.
 
+* **Other CMC employees (Business Analysts, IT department, Cyber Security ect.)**  
+Other **CMC employees** that have been hired by MCT to assist with the call center day-to-day tasks, interact with the system in a unique and niche way. They will be working closely with the RMs and the management to ensure the system is up and running. The other employee's **needs** for the proposed system are robustness, usability, and maintainability in various aspects including business performance analysis, IT configurations, and information security **because** the overall functioning of the system is the direct reflection on them and the quality of their work. 
+
+
+
 ### External Stakeholders
 
 * **Customers**  
@@ -91,11 +96,6 @@ A **Customer** pertains to any individual who will be utilizing the product upon
 
 * __Company Investors and Shareholders__  
 __Investors/Shareholders__ Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution. The investor/shareholder **needs** solutions that will directly increase their shares value in the market as well as future proof their investment in the business **because** ultimately, investors/shareholders are solely concerned with economic value and without them the business would lose funding.
-
-
-* __Competitors__  
-__Competitors__ in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
-
 
 ___
 
