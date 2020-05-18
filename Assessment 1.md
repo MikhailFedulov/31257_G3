@@ -23,6 +23,7 @@ MTC approached us to conduct the project due diligence and develop a business re
 
 ### Objectives
 For the project to be successful the following objectives have been extracted from the project debrief and the client’s needs. The client desires a more efficient and robust system which will be able to distribute the CMC load accordingly now and in the future. Based on the information provided by the client, three primary objectives have been identified which will influence the decision making process throughout the project life cycle:
+
     1. Improve customer experience which will reflect on 2% lower churn rate after one year of operations of the new system.  
     2. Increase travel packages sales by 5% within the first year of the new system implementation.
     3. Minimise costs of inbound calls by 20% within the first year of the new system implementation.
@@ -96,103 +97,6 @@ __Investors/Shareholders__ Those that fund the companies ventures and have finan
 __Competitors__ in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
 
 
-## Stakeholder Role Play Interviews
-
-### Interviewer Questions
-### Generic
-#### Introductory Questions
-1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
-2. To start off, how are you?
-
-#### Generic for both stakeholders
-3. What do you primarily use our service for?
-4. What is your biggest issue with the current system of call management?
-5. Are there any aspects of the current system you wish to remain intact in the change?
-6. What is the most important thing you would like to see added in the new system?
-7. What is your biggest concern with the proposed project?
-
-#### RM Specific Questions
-8. Do you think the implementation of the new system will have noticeable hindrance to productivity during the change period ?
-9. How comfortable are you learning a new system and are there any actions that can be taken to ease this transition?
-10. What criteria do you think will be important in the grouping of RM speciality?
-11. Do you think matching Customers to you based on perceived knowledge will improve call efficiency?
-
-#### Customer specific
-8. What do you look for in a call experience?
-9. Currently how satisfied are you with the call time required for booking?
-10. On a scale of 1-10 how satisfied are you with our call representatives knowledge of what you’re seeking?
-11. What are some of the pain points you have experienced during the booking process?
-
-#### Closing formalities
-Thank You so much for your time today, your feedback will be a great
-help and will allow us to continue to provide a fantastic service.
-
-### RM Interview Script
-**Interviewer:** Good Afternoon I’m Hugh, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do
-you mind if I ask you a few questions today?  
-_**RM:** Not at all go ahead_  
-**Interviewer:** To start off, how are you  
-_**RM:** I’m alright, especially considering everything going on recently_  
-**Interviewer:** I know, glad to hear you’re doing well  
-**Interviewer:** So What do you primarily use our service for?  
-_**RM:** Well primarily I utilise the system to complete all my day to day tasks on the job, It’s what connects me to the customer_  
-**Interviewer:** What is your biggest issue with the current system of call management?  
-_**RM:** Actually I’m glad you ask, I’m finding on a few occasions that I’m being given calls outside my general area of expertise, even when colleagues with more experience in those areas are off call. Can be a real headache_  
-**Interviewer:** Are there any aspects of the current system you wish to remain intact in the change?  
-_**RM:** To be honest, as long as I retain control over the actual conversation with the customer in order to ensure sales, I’m happy_  
-**Interviewer:** What is the most important thing you would like to see added in the new system?  
-_**RM:** I’d really love to have some indication of the incoming customers general enquiry before being connected, maybe a little info from the initial connection could help_  
-**Interviewer:** What is your biggest concern with the proposed project?  
-_**RM:** Mainly that it becomes too complex to understand and I lose freedom in how I approach communication with the customer_  
-**Interviewer:** Do you think the implementation of the new system will have noticeable hindrance to productivity during the change period?  
-_**RM:** Depends how much it changes the actions I take personally during the day. If it adds too many hoops to jump through it would severely impact my productivity_  
-**Interviewer:** How comfortable are you learning a new system and are there any actions that can be taken to ease this transition?    
-_**RM:** Similar to my last response it depends on how much an effect it has on my day to day. If it is going to cause a lot of changes then it would be really helpful to get some training or a runthrough of the new system in a test situation rather than learning through live calls_  
-**Interviewer:** What criteria do you think will be important in the grouping of RM speciality?  
-_**RM:** First and foremost our job requires us to be efficient in selling to the customer, therefore I think average call time would be a good indicator, as well as this maybe grouping RM’s based on their knowledge of global regions for example, I have a great deal of knowledge on many european locations and could offer higher quality guidance in that area_  
-**Interviewer:** Do you think matching Customers to you based on perceived knowledge will improve call efficiency?    
-_**RM:** Oh definitely, If I’m more confident in the area the customer is looking for then I have a far greater chance of providing a great experience to them_  
-**Interviewer:** Thank You so much for your time today, your feedback will be a great help and We’ll ensure it is all considered in the new systems development, have a great day  
-_**RM:** Thank you, you too_
-
-### Customer Interview Script
-**Interviewer:** Good Afternoon I’m Jett, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?  
-_**RM:** No that’s quite alright_  
-**Interviewer:** To start off, how are you?  
-_**RM:** Good, thank you_  
-**Interviewer:** I know, glad to hear you’re doing well  
-**Interviewer:** So What do you primarily use our service for?  
-_**RM:** I’ve called MTC previously to book holiday trips and getaways_  
-**Interviewer:** What is your biggest issue with the current system of call management?      
-_**RM:** During my previous interactions with the call centre I’ve experienced extended wait times and on occasion I’ve been connected with a specialist who seemed confused or surprised by some of the questions and requests I had for them_  
-**Interviewer:** Are there any aspects of the current system you wish to remain intact in the change?  
-_**RM:** I’m not too fussed over what changes are made so long as I’m still connected to a customer service representative fairly quickly without too much idle time. So not really_  
-**Interviewer:** What is the most important thing you would like to see added in the new system?  
-_**RM:** Some sort of indicator which lets me know how long until I can be serviced by a team member_  
-**Interviewer:** What is your biggest concern with the proposed project?    
-_**RM:** That it could fundamentally change the booking process I’m familiar with, maybe even to the point I wouldn’t feel confident in using the calling service_  
-**Interviewer:** What do you look for in a call experience?  
-_**RM:** Minimal waiting time, and to feel like I am talking with a team member who is able to confidently answer and queries or questions I might have_  
-**Interviewer:** Currently how satisfied are you with the call time required for booking?  
-_**RM:** The current wait time is okay. I can definitely understand how the lines can get busy, but it’s still frustrating when you are forced to wait for an unknown amount of time_  
-**Interviewer:** On a scale of 1-10 how satisfied are you with our call representatives knowledge of what you’re seeking?  
-_**RM:** I would say maybe a six or seven. The majority of interactions I’ve had with representatives have gone well, but on one or two occasions when I’ve had specific questions regarding booking packages or terms and conditions I’ve been asked to wait while my question was passed on to a supervisor or colleague. I don’t see this as a huge issue, but the whole experience would be a lot smoother if the representative was more prepared for the specific sort of questions I might have regarding the package I had specifically contacted them to book_  
-**Interviewer:** What are some of the pain points you have experienced during the booking process?  
-_**RM:** Like I said before, the negative areas are generally based around wait times and the reps occasionally being unable to help me without contacting a supervisor or colleague_  
-**Interviewer:** Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service  
-_**RM:** Glad to have helped!_
-
-### RM Interview Screenshots  
-![RM 1](images/interview_RM/RM_1.png)
-![RM 2](images/interview_RM/RM_2.png)
-![RM 3](images/interview_RM/RM_3.png)
-![RM 4](images/interview_RM/RM_4.png)
-
-### Customer Interview Screenshots
-![Customer 1](images/interview_customer/Customer_1.png)
-![Customer 2](images/interview_customer/Customer_2.png)
-![Customer 3](images/interview_customer/Customer_3.png)
-![Customer 4](images/interview_customer/Customer_4.png)
 ___
 ## User Story Backlog
 |  **User Story #** | **As a/an** | **I want to...** | **So that...** | **Estimates** | **Priority** | **Story Type** | **Process/ Service** |
@@ -292,3 +196,106 @@ ___
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
 ___
+
+
+
+
+## Appendix 
+
+## Stakeholder Role Play Interviews
+
+### Interviewer Questions
+### Generic
+#### Introductory Questions
+1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
+2. To start off, how are you?
+
+#### Generic for both stakeholders
+3. What do you primarily use our service for?
+4. What is your biggest issue with the current system of call management?
+5. Are there any aspects of the current system you wish to remain intact in the change?
+6. What is the most important thing you would like to see added in the new system?
+7. What is your biggest concern with the proposed project?
+
+#### RM Specific Questions
+8. Do you think the implementation of the new system will have noticeable hindrance to productivity during the change period ?
+9. How comfortable are you learning a new system and are there any actions that can be taken to ease this transition?
+10. What criteria do you think will be important in the grouping of RM speciality?
+11. Do you think matching Customers to you based on perceived knowledge will improve call efficiency?
+
+#### Customer specific
+8. What do you look for in a call experience?
+9. Currently how satisfied are you with the call time required for booking?
+10. On a scale of 1-10 how satisfied are you with our call representatives knowledge of what you’re seeking?
+11. What are some of the pain points you have experienced during the booking process?
+
+#### Closing formalities
+Thank You so much for your time today, your feedback will be a great
+help and will allow us to continue to provide a fantastic service.
+
+### RM Interview Script
+**Interviewer:** Good Afternoon I’m Hugh, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do
+you mind if I ask you a few questions today?  
+_**RM:** Not at all go ahead_  
+**Interviewer:** To start off, how are you  
+_**RM:** I’m alright, especially considering everything going on recently_  
+**Interviewer:** I know, glad to hear you’re doing well  
+**Interviewer:** So What do you primarily use our service for?  
+_**RM:** Well primarily I utilise the system to complete all my day to day tasks on the job, It’s what connects me to the customer_  
+**Interviewer:** What is your biggest issue with the current system of call management?  
+_**RM:** Actually I’m glad you ask, I’m finding on a few occasions that I’m being given calls outside my general area of expertise, even when colleagues with more experience in those areas are off call. Can be a real headache_  
+**Interviewer:** Are there any aspects of the current system you wish to remain intact in the change?  
+_**RM:** To be honest, as long as I retain control over the actual conversation with the customer in order to ensure sales, I’m happy_  
+**Interviewer:** What is the most important thing you would like to see added in the new system?  
+_**RM:** I’d really love to have some indication of the incoming customers general enquiry before being connected, maybe a little info from the initial connection could help_  
+**Interviewer:** What is your biggest concern with the proposed project?  
+_**RM:** Mainly that it becomes too complex to understand and I lose freedom in how I approach communication with the customer_  
+**Interviewer:** Do you think the implementation of the new system will have noticeable hindrance to productivity during the change period?  
+_**RM:** Depends how much it changes the actions I take personally during the day. If it adds too many hoops to jump through it would severely impact my productivity_  
+**Interviewer:** How comfortable are you learning a new system and are there any actions that can be taken to ease this transition?    
+_**RM:** Similar to my last response it depends on how much an effect it has on my day to day. If it is going to cause a lot of changes then it would be really helpful to get some training or a runthrough of the new system in a test situation rather than learning through live calls_  
+**Interviewer:** What criteria do you think will be important in the grouping of RM speciality?  
+_**RM:** First and foremost our job requires us to be efficient in selling to the customer, therefore I think average call time would be a good indicator, as well as this maybe grouping RM’s based on their knowledge of global regions for example, I have a great deal of knowledge on many european locations and could offer higher quality guidance in that area_  
+**Interviewer:** Do you think matching Customers to you based on perceived knowledge will improve call efficiency?    
+_**RM:** Oh definitely, If I’m more confident in the area the customer is looking for then I have a far greater chance of providing a great experience to them_  
+**Interviewer:** Thank You so much for your time today, your feedback will be a great help and We’ll ensure it is all considered in the new systems development, have a great day  
+_**RM:** Thank you, you too_
+
+### Customer Interview Script
+**Interviewer:** Good Afternoon I’m Jett, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?  
+_**RM:** No that’s quite alright_  
+**Interviewer:** To start off, how are you?  
+_**RM:** Good, thank you_  
+**Interviewer:** I know, glad to hear you’re doing well  
+**Interviewer:** So What do you primarily use our service for?  
+_**RM:** I’ve called MTC previously to book holiday trips and getaways_  
+**Interviewer:** What is your biggest issue with the current system of call management?      
+_**RM:** During my previous interactions with the call centre I’ve experienced extended wait times and on occasion I’ve been connected with a specialist who seemed confused or surprised by some of the questions and requests I had for them_  
+**Interviewer:** Are there any aspects of the current system you wish to remain intact in the change?  
+_**RM:** I’m not too fussed over what changes are made so long as I’m still connected to a customer service representative fairly quickly without too much idle time. So not really_  
+**Interviewer:** What is the most important thing you would like to see added in the new system?  
+_**RM:** Some sort of indicator which lets me know how long until I can be serviced by a team member_  
+**Interviewer:** What is your biggest concern with the proposed project?    
+_**RM:** That it could fundamentally change the booking process I’m familiar with, maybe even to the point I wouldn’t feel confident in using the calling service_  
+**Interviewer:** What do you look for in a call experience?  
+_**RM:** Minimal waiting time, and to feel like I am talking with a team member who is able to confidently answer and queries or questions I might have_  
+**Interviewer:** Currently how satisfied are you with the call time required for booking?  
+_**RM:** The current wait time is okay. I can definitely understand how the lines can get busy, but it’s still frustrating when you are forced to wait for an unknown amount of time_  
+**Interviewer:** On a scale of 1-10 how satisfied are you with our call representatives knowledge of what you’re seeking?  
+_**RM:** I would say maybe a six or seven. The majority of interactions I’ve had with representatives have gone well, but on one or two occasions when I’ve had specific questions regarding booking packages or terms and conditions I’ve been asked to wait while my question was passed on to a supervisor or colleague. I don’t see this as a huge issue, but the whole experience would be a lot smoother if the representative was more prepared for the specific sort of questions I might have regarding the package I had specifically contacted them to book_  
+**Interviewer:** What are some of the pain points you have experienced during the booking process?  
+_**RM:** Like I said before, the negative areas are generally based around wait times and the reps occasionally being unable to help me without contacting a supervisor or colleague_  
+**Interviewer:** Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service  
+_**RM:** Glad to have helped!_
+
+### RM Interview Screenshots  
+![RM 1](images/interview_RM/RM_1.png)
+![RM 2](images/interview_RM/RM_2.png)
+![RM 3](images/interview_RM/RM_3.png)
+![RM 4](images/interview_RM/RM_4.png)
+
+### Customer Interview Screenshots
+![Customer 1](images/interview_customer/Customer_1.png)
+![Customer 2](images/interview_customer/Customer_2.png)
+![Customer 3](images/interview_customer/Customer_3.png)
+![Customer 4](images/interview_customer/Customer_4.png)
