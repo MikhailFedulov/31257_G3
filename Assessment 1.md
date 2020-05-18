@@ -144,7 +144,11 @@ Actors| Primary Actor – Relationship Manager Secondary Actor – New CMC Syste
 Pre-conditions | The Relationship Manager has access to the NEW CMC System. The Relationship Manager has a valid credentials
 Post-conditions | The Relationship Manager has successfully viewed a customer sales history via the New CMC System.
 Trigger | The Relationship Manager navigates to the New System on an internet browser. 
-Main Flow | 1. The system displays a landing page with navigation menu, user basic details, and notifications. 2. The Relationship Manager navigates to the Customers Tab by clicking on it in the navigation menu. Alternate Flow 1 “Sales History Tab Option”. 3. The system displays a list of existing customers that the RM interacted with. 4. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 5. The system displays the selected customer profile window with their contact details and an action menu. 6. The Relationship Manager selects Sales History from the action menu by clicking on it. 7. The system displays sales history records within the customer profile window. 
+Main Flow | 1. The system displays a landing page with navigation menu, user basic details, and notifications. 
+2. The Relationship Manager navigates to the Customers Tab by clicking on it in the navigation menu. Alternate Flow 1 “Sales History Tab Option”.
+3. The system displays a list of existing customers that the RM interacted with. 
+4. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon.
+5. The system displays the selected customer profile window with their contact details and an action menu. 6. The Relationship Manager selects Sales History from the action menu by clicking on it. 7. The system displays sales history records within the customer profile window. 
 Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
 Includes/Extends/Inherits | Includes “UC102: Pay Fare” Extended by “UC103: Print Ticket”
 Supporting Information | Customer, Relationship Manager, and Sales History records need to be stored on a central server.  
@@ -155,7 +159,10 @@ Requirements | Conditions |
 ------------ | -------------
 Alternate Flow 1 | “Sales History Tab Option”  
 Trigger | The Relationship Manager clicks on Sales History tab to the New System
-Step | 1. The system displays a Sales History page with a list of customers to choose from. 2. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon.  3. The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details. 4. The Relationship Manage clicks on the toggle button to view individual sales in detail.
+Step | 1. The system displays a Sales History page with a list of customers to choose from.
+2. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 
+3. The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details.
+4. The Relationship Manage clicks on the toggle button to view individual sales in detail.
 Post-conditions | The new system successfully displayed the Sales History page. 
 Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
 
