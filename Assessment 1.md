@@ -131,9 +131,10 @@ Key | Stakeholder | User Story | Estimates | Priority
 
  ### Use Case Narrative
 
-
 **Use Case Name:** View Individual Customer Sales History
 
+Requirements | Conditions | 
+------------ | -------------
 Use Case ID | UC101: View Individual Customer Sales History
 User Story | US110 As a Relationship Manager, I want to view sales history of a customer so that I can get a more accurate gauge on customers past sales. 
 Goal | Relationship Manager needs to be able to view individual customer sales history to analyse the sales performance and make future plans. 
@@ -150,7 +151,8 @@ Supporting Information | Customer, Relationship Manager, and Sales History recor
 Non-functional Requirements | Performance: Page load time Security: The system has robust authentication features with Two steps verification option.
 
 
-
+Requirements | Conditions | 
+------------ | -------------
 Alternate Flow 1 | “Sales History Tab Option”  
 Trigger | The Relationship Manager clicks on Sales History tab to the New System
 Step | 1. The system displays a Sales History page with a list of customers to choose from. 2. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon.  3. The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details. 4. The Relationship Manage clicks on the toggle button to view individual sales in detail.
