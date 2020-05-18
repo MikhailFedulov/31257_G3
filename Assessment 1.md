@@ -98,6 +98,19 @@ __Competitors__ in the space it is important to analyze the industry landscape a
 
 
 ___
+## Stakeholder Interest & Influence Grid
+![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete.png)
+___
+## Stakeholder Empathy Maps
+### RM Empathy Map
+![RM empathy map](images/Empathy_Map_RM.png)
+
+### Customer Empathy Map
+![Customer empathy map](images/Empathy_Map_Customer.png)
+___
+
+
+___
 ## User Story Backlog
 |  **User Story #** | **As a/an** | **I want to...** | **So that...** | **Estimates** | **Priority** | **Story Type** | **Process/ Service** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -185,17 +198,8 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
 **Competitors** | Gaining competitive advantage; Increasing market share | Low/Medium – competitors approaches to customer relation management should be analysed and compared to the proposed system, but not necessarily dictate the new systems architecture  | 3 (Low)
 
-___
-## Stakeholder Interest & Influence Grid
-![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete.png)
-___
-## Stakeholder Empathy Maps
-### RM Empathy Map
-![RM empathy map](images/Empathy_Map_RM.png)
 
-### Customer Empathy Map
-![Customer empathy map](images/Empathy_Map_Customer.png)
-___
+
 
 
 
