@@ -292,3 +292,231 @@ ___
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
 ___
+
+## Use Case Narratives
+### Story 303
+<table>
+  <tr>
+   <td><strong>Use Case ID</strong>
+   </td>
+   <td>UC:303 - Deactivate a Relationship Manager account
+   </td>
+  </tr>
+  <tr>
+   <td><strong>User Story</strong>
+   </td>
+   <td>As a CMC Manager  I want to create an RM account so that RM's have a profile to utilise the system
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Goal </strong>
+   </td>
+   <td>Create a new RM account in the system
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Priority</strong>
+   </td>
+   <td>H
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Actors</strong>
+   </td>
+   <td>Primary Actor – CMC Manager
+<p>
+Secondary Actors –  CMC System
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pre-conditions</strong>
+   </td>
+   <td>The CMC system is active.
+<p>
+There is a new RM that needs to be registered
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The RM has an account that they can access
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The CMC manager logs into the CMC system
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Main Flow</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The CMC application displays the default landing page for CMC Managers.  
+
+<li>The CMC manager selects the RM management option.
+
+<li>The CMC application displays the RM management page.
+
+<li>The CMC manager selects the RM registration option.
+
+<li>The CMC application displays the RM registration page.
+
+<li>The CMC manager enters the required information into the presented fields.
+
+<li>The CMC manager clicks the confirmation button. If an ‘existing RM’ error is displayed refer to <strong>alternative flow 1 ‘RM already exists’</strong>. If a ‘incorrect information’ error is displayed <strong>refer to alternative flow 2 ‘Details entered were incorrectly formatted’.</strong>
+
+<li>The CMC application displays a confirmation message to show the RM account was created.
+
+<li>The use case has now been completed.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1.Steps 1-9 – CMC Manager closes the application window anytime.
+<p>
+E2.Steps 1-9 – The CMC system crashes
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Includes</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Supporting Information</strong>
+   </td>
+   <td>RM details must be stored on a central server
+<p>
+The RM accounts will be saved in a separate database table to CMC manager accounts
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Non-functional Requirements</strong>
+   </td>
+   <td>Performance: Page load time.
+<p>
+Performance: System account confirmation time.
+<p>
+Design: registration form is understandable
+<p>
+Security: sensitive information is masked
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 1</strong>
+   </td>
+   <td>“RM already exists”  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>An ‘existing RM’ error is displayed
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The CMC manager acknowledges the error.
+
+<li>The CMC application removes the error popup and displays the registration page again
+
+<li>The CMC manager makes changes to the entered information where necessary
+
+<li>Re-join at Step 7 in the Main Flow.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Alt Flow</strong>
+   </td>
+   <td>
+    The CMC manager exits the CMC application
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post conditions</strong>
+   </td>
+   <td>The newly edited information is confirmed for registration
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1.Steps 1-4 – CMC manager closes the browser window anytime.
+<p>
+E2.Steps 1-4 – The CMC system crashes
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 2</strong>
+   </td>
+   <td>“Details entered were incorrectly formatted”  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>An ‘incorrect information’ error is displayed
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The CMC manager acknowledges the error.
+
+<li>The CMC application removes the error popup and displays the registration page again
+
+<li>The CMC manager makes changes to the entered information where necessary
+
+<li>Re-join at Step 7 in the Main Flow.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Alt Flow</strong>
+   </td>
+   <td>
+    The CMC manager exits the CMC application
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post conditions</strong>
+   </td>
+   <td>The newly edited information is confirmed for registration
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1.Steps 1-4 – CMC manager closes the browser window anytime.
+<p>
+E2.Steps 1-4 – The CMC system crashes
+   </td>
+  </tr>
+</table>
