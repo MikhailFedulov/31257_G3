@@ -105,4 +105,4 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 
 
 ### Stakeholder Interest & Influence Grid
-![alt text](https://github.com/MikhailFedulov/31257_G3/blob/Marcus-Huth/Stakeholder%20Matrix%20Complete.png "Stakeholder Influence & Influence Grid")
+![alt text](https://github.com/MikhailFedulov/31257_G3/blob/Marcus-Huth/Stakeholder%20Matrix%20Complete_Revision1.png "Stakeholder Influence & Influence Grid")
