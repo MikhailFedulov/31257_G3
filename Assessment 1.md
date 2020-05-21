@@ -112,7 +112,7 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 
 ___
 ## Stakeholder Interest & Influence Grid
-![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete.png)
+![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete_Revision1.png)
 ___
 ## Stakeholder Empathy Maps
 ### RM Empathy Map
