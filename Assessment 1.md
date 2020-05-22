@@ -12,7 +12,7 @@ _12590143 (Mikhail Fedulov)_
 
 ___  
 ## Index
-[**Current Problem and Objectives of the Project Section**](#current-problem-and-objectives-of-the-project)  
+**Current Problem and Objectives of the Project Section**  
 [Background](#Background)  
 [Objectives](#Objectives)  
 [Problem Definition](#Problem-Definition)  
