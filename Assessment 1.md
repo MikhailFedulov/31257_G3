@@ -197,7 +197,6 @@ ___
 ## User Story Backlog
 |  **User Story #** | **As a/an** | **I want to...** | **So that...** | **Estimates** | **Priority** | **Story Type** | **Process/ Service** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  Example STORY | Staff Member | view a list of all devices in the system | find the product number for a listed device. | 5 | High | Story | Product Management |
 |  **RELATIONSHIP MANAGER** |  |  |  |  |  |  |  |
 |  101 | Relationship Manager | be able to see a summary of sales per day/week/month/year | I can track my progress and report it to the management. | 12 | Medium | Epic | Sales Review |
 |  102 | Relationship Manager | be able to view customer details | I can provide efficient service tailored to the customer | 5 | High | Story | Call Facilitation |
@@ -520,3 +519,6 @@ E2.Steps 1-4 – The CMC system crashes
    </td>
   </tr>
 </table>
+
+## Class Diagram
+![Class Diagram](images/ClassDiagram.png)
