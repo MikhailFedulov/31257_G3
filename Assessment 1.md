@@ -521,4 +521,5 @@ E2.Steps 1-4 – The CMC system crashes
 </table>
 
 ## Class Diagram
+<span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
 ![Class Diagram](images/ClassDiagram.png)
