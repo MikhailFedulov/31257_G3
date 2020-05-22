@@ -7,10 +7,10 @@ _12933610(Matthew Fouad)_
 _13381177 (Marcus Huth)_  
 _12590143 (Mikhail Fedulov)_
 
+![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
 </div>
 
-![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
-___
+___  
 ## Current Problem and Objectives of the Project
 
 ### Background
