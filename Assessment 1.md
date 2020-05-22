@@ -1,13 +1,50 @@
+<div align="center">
+
 # Travel Company CMC Upgrade Proposition Report
 
-
-* 12910321(Jett Hendry)
-* 12933610 (Matthew Fouad)
-* 13381177 (Marcus Huth)
-* 12590143 (Mikhail Fedulov)
+_12910321(Jett Hendry)_  
+_12933610(Matthew Fouad)_  
+_13381177 (Marcus Huth)_  
+_12590143 (Mikhail Fedulov)_
 
 ![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
 
+
+___  
+## Index
+**Current Problem and Objectives of the Project Section**  
+[Background](#Background)  
+[Objectives](#Objectives)  
+[Problem Definition](#Problem-Definition)  
+[Assumptions](#Assumptions)  
+[KPIs](#KPIs)  
+
+
+**Stakeholder Analysis Section**    
+[Stakeholder POV](#Stakeholders-POV)  
+[Stakeholder Analysis Table](#Stakeholder-Analysis-Table)  
+[Stakeholder Interest & Influence Grid](#Stakeholder-Interest-and-Influence-Grid)  
+[Stakeholder Empathy Maps](#Stakeholder-Empathy-Maps)  
+
+**User Story Backlog/Solution Approach Section**  
+[User Story Backlog](#User-Story-Backlog)  
+[Approach to Project Solution](#Approach-to-Project-Solution)  
+
+**Use Case/Activity Diagram Section**  
+[Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)  
+[Use Case 303](#Use-Case-303)   
+[Use Case 101](#Use-Case-101)  
+
+**Data Modelling Section**    
+[Class Diagram](#Class-Diagram)
+
+
+**Appendix**   
+[Roleplay Interviews](#Stakeholder-Role-Play-Interviews)    
+
+</div>
+
+___
 ## Current Problem and Objectives of the Project
 
 ### Background
@@ -20,9 +57,10 @@ MTC approached us to conduct the project due diligence and develop a business re
 
 ### Objectives
 For the project to be successful the following objectives have been extracted from the project debrief and the client’s needs. The client desires a more efficient and robust system which will be able to distribute the CMC load accordingly now and in the future. Based on the information provided by the client, three primary objectives have been identified which will influence the decision making process throughout the project life cycle:
-    1. Improve customer experience which will reflect on 2% lower churn rate after one year of operations of the new system.  
-    2. Increase travel packages sales by 5% within the first year of the new system implementation.
-    3. Minimise costs of inbound calls by 20% within the first year of the new system implementation.
+
+1. Improve customer experience which will reflect on 2% lower churn rate after one year of operations of the new system.  
+2. Increase travel packages sales by 5% within the first year of the new system implementation.
+3. Minimise costs of inbound calls by 20% within the first year of the new system implementation.
 
 This report includes the key information required for successful project delivery including KPIs, stakeholder analysis, project assumptions, system design including workproducts and practical models, and identifies competitive advantages that might be gained in developing the new system.
 
@@ -39,10 +77,12 @@ To reduce the CMC operations costs, increase sales and improve customer satisfac
 ### Assumptions
 1. For the purpose of this project, it is assumed that customer profile creation tool Profiler Tool has been implemented, tested, and supports communication with other enterprise systems including the new CMC system.
 2. HR system that creates profiles for Relationship Managers upon hiring and is capable of building matrices for each employee that later can be communicated to other enterprise systems including the new CMC system.
-3. Project is approved and passed financial due diligence.
+3. Project has been approved by the MTC Executives and investors and has passed fthe inancial due diligence.
 4. The project rollout is well thought out by the implementation team to minimise CMC downtime.  
 5. The existing CMC operations rely on manual input and data manipulation from the users including, Relationship Managers, Business Analysts  and IT.
 6. MTC has had an incremental loss due to low CMC efficiency. Sales and portfolio goals weren’t met in the last 3 years which led the company to reevaluate CMC operations.
+7. MTC will source the project team from internal and external resources.
+7. There are no barriers for the project implementation at this stage.
 
 
 
@@ -64,44 +104,452 @@ Minimise costs of inbound calls
 * Savings
 * Cost Reduction
 * Cost Avoidance
-
-## Stakeholders
+___
+## Stakeholders POV
 
 ### Internal Stakeholders
-* Major travel Company executive team
-The head executive team of the major travel company. They will ultimately have the final say over the entire project as they hold the highest authority within the company. They are responsible for ensuring the company investors and shareholders are adequately satisfied with the businesses current projects
+* **Major travel Company executive team**  
+The **executive team of the major travel company**. They will ultimately have the final say over the entire project as they hold the highest authority within the company. The MTC executive team **needs** the proposed system to improve the sales figures of the CMC centre and increase the positive reception of the CMC experience by the customer **because** They are responsible for ensuring the company investors and shareholders are adequately satisfied with the businesses current projects.
 
-* RM (Relationship Managers)
-The employees that currently work in the CMC department. They are tasked with providing support and ensuring sales to customers calling in. The proposed CMC upgrade solution will directly affect these stakeholders day to day work efficiency and therefore they will be high priority points of contact in project solution development feedback.
+* **RM (Relationship Managers)**
+The **Relational Managers** are employees that currently work in the CMC department. They are tasked with providing support and ensuring sales to customers calling in. The proposed CMC upgrade solution will directly affect these stakeholders day to day work efficiency and therefore they will be high priority points of contact in project solution development feedback. The RM **needs** a system that is capable of finding customers with requirements that directly correlate with their own knowledge **because** RMs as we found during roleplay are far more confident in their sales ability if their knowledge is relevant.
 
-* CMC management
-The management personnel overseeing the CMC department. They are responsible for the efficient functioning of the travel companies call center operations. As they are also closely associated with the utilization of the finished CMC solution they will be consulted regularly alongside the RMs during project development
+* **CMC management**  
+The **CMC Management** is the personnel overseeing the CMC department. They are responsible for the efficient functioning of the travel companies call center operations. As they are also closely associated with the utilization of the finished CMC solution they will be consulted regularly alongside the RMs during project development. The CMC Management **needs** a solution that reduces the need for manual micromanagement of RM’s and improves their RMs’s confidence in sales calls **because** the overall functioning of the CMC is a direct reflection on them, an increase in proficiency will affirm their departments importance.
 
-* Project Team
-The project team is a combination of internal and external resources and is responsible for the project implementation. They will be working closely with the other stakeholder during the project development.
+* **Project Team**  
+The **project team** is a combination of internal and external resources and is responsible for the project implementation. They will be working closely with the other stakeholder during the project development. The project team **needs** to provide a solution which appeases all stakeholders needs **because** the quality and acceptance of the system will directly affect the  likelihood of their use in future projects.
+
+* **Other CMC employees (Business Analysts, IT department, Cyber Security ect.)**  
+Other **CMC employees** that have been hired by MCT to assist with the call center day-to-day tasks, interact with the system in a unique and niche way. They will be working closely with the RMs and the management to ensure the system is up and running. The other employee's **needs** for the proposed system are robustness, usability, and maintainability in various aspects including business performance analysis, IT configurations, and information security **because** the overall functioning of the system is the direct reflection on them and the quality of their work.
 
 
-* Other CMC employees (Business Analysts, IT department, Cyber Security ect.)
-Difficulty they face when interacting with the system. Current system management, a lot of manual work.  
-
-* Internal resources available for the system development (Software Engineers, Scrum Managers, IT and Security analysts ect)
 
 ### External Stakeholders
-* Customers
-Customers pertain to any individual who will be utilizing the product upon its release. As these individuals are the companies target for sales, they are paramount to the solutions success from implementation onwards as well as the businesses ongoing success.
 
-* External developers (contractors, external development company)
+* **Customers**  
+A **Customer** pertains to any individual who will be utilizing the product upon its release in order to make purchases. As these individuals are the companies target for sales, they are paramount to the solutions success from implementation onwards as well as the businesses ongoing success. The customer **needs** an improved efficiency in call management to reduce the on-line waiting times and when connected can ensure a high level of knowledge from the staff **because** these factors drastically affect the opinions and experiences of the customer in turn reflecting in sales numbers.
 
-* Company Investors and Shareholders
-Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution.
+* __Company Investors and Shareholders__  
+__Investors/Shareholders__ Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution. The investor/shareholder **needs** solutions that will directly increase their shares value in the market as well as future proof their investment in the business **because** ultimately, investors/shareholders are solely concerned with economic value and without them the business would lose funding.
 
-* Competitors
-Competitors in the space it is important to analyze the industry landscape and identify other firms practices and how they compare to our clients. How strong is the need for the new system and whether it will bring a competitive advantage.
+___
 
+## Stakeholder Analysis Table
+Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - Low)
+--- | --- | --- | ---
+**MTC Executive Team** | Overall profitability; Satisfaction of investors/shareholders; Achieving targets | Medium/High – have the final say regarding all financial and executive decisions on the project | 2 (High)
+**Relationship Managers (RMs)** | Maintaining positive customer relationships; Maximising sales; Address needs of customers | High – with regard to their position influence is relatively minor. However, they are directly impacted in their ability to perform their role by new system so input from them is important | 1 (Critical)
+**CMC Managment Team** | Minimal disruption to services; Efficient allocation of resources (time, physical, monetary) | Low/Medium – oversee the entirety of CMC and indirectly involved in rollout and maintenance of system | 3 (Low)
+**Projects Team** | Satisfaction of user requirements; Smooth rollout of system; Adherence to development timeline | High – tasked with and responsible for the design and implementation of the new system | 1 (Critical)
+**Other CMC Employees** |System performance and agility; System accessibility and maintainability | Low -  Although, they are directly impacted in their ability to perform their role by new system they have little influence over the system configurations and options. |  2 (Low)
+**Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
+**Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
+
+___
+## Stakeholder Interest and Influence Grid
+![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete_Revision1.png)
+___
+## Stakeholder Empathy Maps
+### RM Empathy Map
+![RM empathy map](images/Empathy_Map_RM.png)
+
+### Customer Empathy Map
+![Customer empathy map](images/Empathy_Map_Customer.png)
+___
+
+
+___
+## User Story Backlog
+|  **User Story #** | **As a/an** | **I want to...** | **So that...** | **Estimates** | **Priority** | **Story Type** | **Process/ Service** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  Example STORY | Staff Member | view a list of all devices in the system | find the product number for a listed device. | 5 | High | Story | Product Management |
+|  **RELATIONSHIP MANAGER** |  |  |  |  |  |  |  |
+|  101 | Relationship Manager | be able to see a summary of sales per day/week/month/year | I can track my progress and report it to the management. | 12 | Medium | Epic | Sales Review |
+|  102 | Relationship Manager | be able to view customer details | I can provide efficient service tailored to the customer | 5 | High | Story | Call Facilitation |
+|  103 | Relationship Manager | be able to edit customers profiles | I can keep their profiles up to date | 8 | High | Story | Customer Profile Management |
+|  104 | Relationship Manager | get a list of potential customers(target list) for outboound calls | I can source new sales | 8 | High | Story | Outgoing Call Operation |
+|  105 | Relationship Manager | be given a matching proposed product(s) for each customer in my target list | I have background knowledge of customers need before calling | 8 | High | Story | Outgoing Call Operation |
+|  106 | Relationship Manager | record the number of successful calls (sales) made | I can track my performance | 3 | Medium | Story | Sales Review |
+|  107 | Relationship Manager | have calls from customers directed to me based on our compatibility | I can assist with their queries more effciently and customise the answer | 8 | High | Epic | Matching RM & Customer |
+|  108 | Relationship Manager | search for a customer profile based on full name | I can find their previous records with the CMC | 5 | Medium | Story | Customer History |
+|  109 | Relationship Manager | search for a customer profile based on phone number | I can find their previous records with the CMC | 5 | Medium | Story | Customer History |
+|  110 | Relationship Manager | view sales history of a customer | I can get a more accurate gauge on customers past sales | 3 | High | Story | Customer History |
+|  111 | Relationship Manager | be provided with a script for outgoing calls | I can better perform in outbound calls | 2 | Medium | Story | Outgoing Call Operation |
+|  112 | Relationship Manager | be provided with a guideline for outgoing calls | I can better perform in outbound calls | 2 | Medium | Story | Outgoing Call Operation |
+|  113 | Relationship Manager | log in using my employee ID and password | I can utilise the CMC system | 2 | High | Story | Log In |
+|  114 | Relationship Manager | change my password | I can update my password when needed | 1 | Low | Story | RM Account Managment |
+|  115 | Relationship Manager | change my email | I can update my email when needed | 1 | Low | Story | RM Account Managment |
+|  116 | Relationship Manager | identify my knowledge areas (travel destinations, local attractions etc.) | the CMC system can understand where my strengths lie | 5 | High | Story | RM Account Managment |
+|  117 | Relationship Manager | be able to call customers back in the event of the a call dropout | I do not lose customers to call malfunction | 1 | High | Story | Call Facilitation |
+|  **SYSTEM ADMIN** |  |  |  |  |  |  |  |
+|  201 | System Admin | assign each customer a score based on criteria (likelyhood to buy etc.) | I can ensure good matches between the customer and RM | 8 | High | Story | Matching RM & Customer |
+|  202 | System Admin | direct customers to Interactive Voice Response(IVR) during busy times | I can optimise the CMC performance and keep customers on the line and engaged | 3 | High | Story | Call Facilitation |
+|  203 | System Admin | have the system to prompt options to customers during IVR including reasons for calls, Travel destination etc. | The RM selection process can be done effciently | 5 | High | Story | Call Facilitation |
+|  204 | System Admin | have the system determine best candidate RM for customer | The RM connection to Customer can be facilitated | 12 | High | Epic | Matching RM & Customer |
+|  205 | System Admin | have the system rate customers on their likelihood to buy | The customers can be prioritised | 5 | Medium | Story | Matching RM & Customer |
+|  206 | System Admin | have the system prioritise RM connection to customers with a high buy likelihood score | Customers more likely to buy are serviced first | 2 | Medium | Story | Matching RM & Customer |
+|  207 | System Admin | provide the customer with a 10 minute questionaire when first calling | The system can build a profile for them | 2 | High | Story | Call Facilitation |
+|  208 | System Admin | store customer sales history | it can be accessed for future sales and archiving | 5 | High | Story | Customer Profile Management |
+|  209 | System Admin | store customer details | they can be accessed for sales purposes | 5 | High | Story | Customer Profile Management |
+|  210 | System Admin | store RM details | they can be used for system processes | 5 | High | Story | RM Account Management |
+|  211 | System Admin | have the system calculate a rating for RM's based on average call time etc. | The RM connection to Customer can be facilitated | 8 | High | Story | Matching RM & Customer |
+|  212 | System admin | ensure that information input at login by users is validated (no sql injection etc.) | No user can input incorrectly structured login data | 8 | High | Story | Log In |
+|  213 | System admin | ensure that information input at login by users is verified | I can ensure that the user is logged in to the correct account | 8 | High | Story | Log In |
+|  214 | System admin | ensure that information input at registration is validated |  |  |  |  | Registration |
+|  215 | System admin | ensure that information input at registration is verified |  |  |  |  | Registration |
+|  **CMC Manager** |  |  |  |  |  |  |  |
+|  301 | CMC Manager | be provided with high level reports of CMC performance | I can monitor performance and make strategic decisions | 5 | High | Epic | Sales Review |
+|  302 | CMC Manager | view individual RM sales history | I can monitor RM performance on an individual basis | 5 | Medium | Story | Sales Review |
+|  303 | CMC Manager | create an RM account | employees no longer working for the company cannot access the system | 8 | High | Story | RM Account Management |
+|  304 | CMC Manager | deactivate an RM account | RM's have a profile to utilise the system | 2 | Medium | Story | Rm Account Management |
+|  305 | CMC Manager | view the current status of each RM (on call, waiting, performing outgoing calls, on break etc.) | I can manage the RMs in changing times of demand | 3 | Medium | Story | Call Facilitation |
+|  306 | CMC Manager | view a list of the days sales | I can review the daily earnings | 2 | Low | Story | Sales Review |
+|  307 | CMC Manager | view a list of the monthly sales | I can review the monthly earnings | 3 | Medium | Story | Sales Review |
+|  308 | CMC Manager | view a list of the annual sales | I can review the annual earnings | 5 | Medium | Story | Sales Review |
+|  **CUSTOMER** |  |  |  |  |  |  |  |
+|  401 | Customer | call the Major Travel Company using a provided phone number | I can contact the Major Travel Company | 1 | High | Story | Call Facilitation |
+|  402 | Customer | give details of what I'm looking for when first calling | I get the correct service provided by the CMC | 3 | High | Story | Call Facilitation |
+|  403 | Customer | be remembered as a return customer | the company knows I am a prior buyer | 1 | High | Story | Matching RM & Customer |
+|  404 | Customer | be connected with an employee with knowledge of my destination | I get all the information needed for my travel package | 12 | High | Epic | Matching RM & Customer |
+|  405 | Customer | have the option to request RM's I have previously talked to | I can continue to get service from those I am familiar with | 3 | Medium | Story | Matching RM & Customer |
+|  406 | Customer | be given ample time with an RM | I can be confident in my purchase choice | 1 | Medium | Story | Call Facilitation |
+|  407 | Customer | provide feedback on call quality | I can provide my opinion of my business | 2 | Low | Story | Feedback |
+|  408 | Customer | be reconnected with an RM in the event of a call dropout | I can continue my enquiry process | 3 | High | Story | Call Facilitation |
+|   |  |  |  |  |  |  |  |
+|  **NON-FUNCTIONAL REQUIREMENTS** |  |  |  |  |  |  |  |
+|  501 | Customer | be connected to an RM in under 10 minutes | I am not waiting too long for service | 8 | Medium | Story | Matching RM & Customer |
+|  502 | Customer | be provided with at minimum 3 options for travel packages | I have flexibility in choice of package | 3 | Medium | Story | Call Facilitation |
+|  503 | Customer | have my details kept confidential | My details are secure | 2 | High | Story | Customer Profile Management |
+|  504 | Customer | The questionaire given to be discernible | I can understand what is being asked | 1 | High | Story | Call Facilitation |
+|  505 | Relationship Manager | have my details kept confidential | My details are secure | 3 | High | Story | RM Profile Management |
+|  506 | Relationship Manager | be given a minimum of 20 calls per day (volume permitting) | I have enough opportunities for potential sales daily | 5 | Medium | Story | Call Facilitation |
+|  507 | Relationship Manager | be logged into the system within 2 minutes | I can access the system in a timely manner | 2 | Medium | Story | Log In |
+|  508 | Relationship Manager | be able to specialise in at least 3 destinations | the system can find more potential customer matches for me | 2 | Medium | Story | Matching RM & Customer |
+|  509 | Relationship Manager | be given a minimum of 10 call targets in my daily outgoing target list (volume permitting) | I have enough opportunities for potential sales daily | 5 | Medium | Story | Call Facilitation |
+|  510 | Relationship Manager | be shown search results for customer lookup within 5 seconds | I can effciently obtain information on customers | 3 | High | Story | Customer Profile Management |
+|  511 | Relationship Manager | have my account edits immediately registered in the system | there is no disparity in my details | 1 | High | Story | RM Profile Management |
+|  511 | CMC Manager | be shown search results for RM lookup within 5 seconds | I can effciently obtain sales figures of RMs | 3 | Medium | Story | RM Profile Management |
+|  512 | CMC Manager | be shown sales figures lists (daily, monthly, annually) within 1 minute | I can access them for review in a timely manner | 5 | low | Story | Sales Review |
+|  513 | CMC Manager | have an RM account created immediately after request | the profile is created in a timely manner | 1 | High | Story | RM Profile Managment |
+|  514 | CMC Manager | have an RM account deactivated immediately after request | the profile cannot be accessed after deactivation | 1 | High | Story | RM Profile Managment |   
+
+___
+
+## Approach to Project Solution
+### How-Might-We
+To further understand the problem areas the team developed a series of How-Might-We questions based on insights found during the research phase. The goal was to state questions that are broad enough that provide a wide range of possible solutions yet narrow enough that the project has helpful boundaries. The questions were derived from each stakeholder category and were designed to be actionable, but not targeted to a specific project area:
+
+
+* **Major travel Company executive team**
+1. How might we improve yearly sales for the CMC center so that the company generates higher revenue.
+2. How might we increase the positive reception for the CMC customers so that the company has a better publick outlook and more return customers.
+3. How might we raise the company evaluation so that the company investors and shareholders are abiquently satisfied.
+
+
+* **RM (Relationship Managers)**
+1. How might we be more efficient when interacting with customers so that our sales go up.
+2. How might we reduce manual tasks so that we can reach more customers a day.
+3. How might we find customers with requirements that directly correlate with their own knowledge
+
+* **CMC management**
+1. How might we reduce micromanagement of the Relationship Managers so that the team spends less time on unnecessary operations.
+2. How might we increase RM’s confidence in sales calls so that the relevant training and support is provided only when needed.
+3. How might we improve the CMC proficiency so that the department has a better outlook and funding.
+
+* **Project Team**
+1. How might we develop a solution that appeases all stakeholders needs so that the project goals are achieved.
+2. How might we develop a high quality solution so that it passes other stakeholders acceptance testing.
+3. How might we develop the solution on time so that the project will be complimented within the boundaries of the allocated budget.
+
+
+
+* **Other CMC employees**
+1. How might we have a robust system that is easy to interact with so that we can be more efficient at processing ongoing maintenance requests.
+2. How might we improve the system so that we can produce more quality work.
+
+* **Customers**
+1. How might we receive a better and more personolised service so that we would be encouraged to come back.
+2. How might we be processed with greater efficiency so that we don’t have to wait a long time on the phone.
+
+* **Company Investors and Shareholders**
+1. How might we provide better support to the company so that the company market share value will increase.
+2. How might we create more positive economic environment for the company so that the company has secure funds for further improvements.
+
+___
+
+## Use Case Narratives
+### Use Case 303
+<table>
+  <tr>
+   <td><strong>Use Case ID</strong>
+   </td>
+   <td>UC:303 - Deactivate a Relationship Manager account
+   </td>
+  </tr>
+  <tr>
+   <td><strong>User Story</strong>
+   </td>
+   <td>As a CMC Manager  I want to create an RM account so that RM's have a profile to utilise the system
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Goal </strong>
+   </td>
+   <td>Create a new RM account in the system
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Priority</strong>
+   </td>
+   <td>H
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Actors</strong>
+   </td>
+   <td>Primary Actor – CMC Manager
+<p>
+Secondary Actors –  CMC System
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pre-conditions</strong>
+   </td>
+   <td>The CMC system is active.
+<p>
+There is a new RM that needs to be registered
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The RM has an account that they can access
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The CMC manager logs into the CMC system
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Main Flow</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The CMC application displays the default landing page for CMC Managers.  
+
+<li>The CMC manager selects the RM management option.
+
+<li>The CMC application displays the RM management page.
+
+<li>The CMC manager selects the RM registration option.
+
+<li>The CMC application displays the RM registration page.
+
+<li>The CMC manager enters the required information into the presented fields.
+
+<li>The CMC manager clicks the confirmation button. If an ‘existing RM’ error is displayed refer to <strong>alternative flow 1 ‘RM already exists’</strong>. If a ‘incorrect information’ error is displayed <strong>refer to alternative flow 2 ‘Details entered were incorrectly formatted’.</strong>
+
+<li>The CMC application displays a confirmation message to show the RM account was created.
+
+<li>The use case has now been completed.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1.Steps 1-9 – CMC Manager closes the application window anytime.
+<p>
+E2.Steps 1-9 – The CMC system crashes
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Includes</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Supporting Information</strong>
+   </td>
+   <td>RM details must be stored on a central server
+<p>
+The RM accounts will be saved in a separate database table to CMC manager accounts
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Non-functional Requirements</strong>
+   </td>
+   <td>Performance: Page load time.
+<p>
+Performance: System account confirmation time.
+<p>
+Design: registration form is understandable
+<p>
+Security: sensitive information is masked
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 1</strong>
+   </td>
+   <td>“RM already exists”  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>An ‘existing RM’ error is displayed
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The CMC manager acknowledges the error.
+
+<li>The CMC application removes the error popup and displays the registration page again
+
+<li>The CMC manager makes changes to the entered information where necessary
+
+<li>Re-join at Step 7 in the Main Flow.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Alt Flow</strong>
+   </td>
+   <td>
+    The CMC manager exits the CMC application
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post conditions</strong>
+   </td>
+   <td>The newly edited information is confirmed for registration
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1.Steps 1-4 – CMC manager closes the browser window anytime.
+<p>
+E2.Steps 1-4 – The CMC system crashes
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 2</strong>
+   </td>
+   <td>“Details entered were incorrectly formatted”  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>An ‘incorrect information’ error is displayed
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The CMC manager acknowledges the error.
+
+<li>The CMC application removes the error popup and displays the registration page again
+
+<li>The CMC manager makes changes to the entered information where necessary
+
+<li>Re-join at Step 7 in the Main Flow.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Alt Flow</strong>
+   </td>
+   <td>
+    The CMC manager exits the CMC application
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post conditions</strong>
+   </td>
+   <td>The newly edited information is confirmed for registration
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1.Steps 1-4 – CMC manager closes the browser window anytime.
+<p>
+E2.Steps 1-4 – The CMC system crashes
+   </td>
+  </tr>
+</table>
+
+#### Activity Diagram (UC303)
+
+### Use Case 101
+Requirements | Conditions |
+------------ | -------------
+Use Case ID | UC101: View Individual Customer Sales History
+User Story | US110 As a Relationship Manager, I want to view sales history of a customer so that I can get a more accurate gauge on customers past sales.
+Goal | Relationship Manager needs to be able to view individual customer sales history to analyse the sales performance and make future plans.
+Priority | High
+Estimates | 3
+Actors| Primary Actor – Relationship Manager Secondary Actor – New CMC System
+Pre-conditions | The Relationship Manager has access to the NEW CMC System. The Relationship Manager has a valid credentials
+Post-conditions | The Relationship Manager has successfully viewed a customer sales history via the New CMC System.
+Trigger | The Relationship Manager navigates to the New System on an internet browser.
+Main Flow | 1. The system displays a landing page with navigation menu, user basic details, and notifications. 2. The Relationship Manager navigates to the Customers Tab by clicking on it in the navigation menu. Alternate Flow 1 “Sales History Tab Option”. 3. The system displays a list of existing customers that the RM interacted with. 4. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 5. The system displays the selected customer profile window with their contact details and an action menu. * The Relationship Manager selects Sales History from the action menu by clicking on it. 7. The system displays sales history records within the customer profile window.
+Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
+Includes/Extends/Inherits | Includes “UC102: Pay Fare” Extended by “UC103: Print Ticket”
+Supporting Information | Customer, Relationship Manager, and Sales History records need to be stored on a central server.  
+Non-functional Requirements | Performance: Page load time Security: The system has robust authentication features with Two steps verification option.
+
+
+Requirements | Conditions |
+------------ | -------------
+Alternate Flow 1 | “Sales History Tab Option”  
+Trigger | The Relationship Manager clicks on Sales History tab to the New System
+Step | 1. The system displays a Sales History page with a list of customers to choose from. 2. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 3. The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details. 4. The Relationship Manage clicks on the toggle button to view individual sales in detail.
+Post-conditions | The new system successfully displayed the Sales History page.
+Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
+
+#### Activity Diagram (UC101)
+![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
+
+___
+
+## Class Diagram
+<span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
+![Class Diagram](images/ClassDiagram.png)
+
+---
+## Appendix
 
 ## Stakeholder Role Play Interviews
 
-### INTERVIEWER QUESTIONS
+### Interviewer Questions
 ### Generic
 #### Introductory Questions
 1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
@@ -191,56 +639,9 @@ _**RM:** Glad to have helped!_
 ![RM 3](images/interview_RM/RM_3.png)
 ![RM 4](images/interview_RM/RM_4.png)
 
+
 ### Customer Interview Screenshots
 ![Customer 1](images/interview_customer/Customer_1.png)
 ![Customer 2](images/interview_customer/Customer_2.png)
 ![Customer 3](images/interview_customer/Customer_3.png)
 ![Customer 4](images/interview_customer/Customer_4.png)
-
-### User Stories
-Key | Stakeholder | User Story | Estimates | Priority
------------- | ------------- | ------------- | ------------- | -------------
-101 | Relationship Manager | As a Relationship Manager I would like to be able to see a summary of sales pre day/week/month/year so that I can track my progress and report it to the management. | 1 | Medium
-102 | Relationship Manager | As a Relationship Manager I would like to be able to view customers profiles so that I can understand the customer situation better. | 1 | High
-103 |Relationship Manager | As a Relationship Manager I would like to be able to edit customers profiles so that I can keep their profiles up to date. | 1 | High
-104 | Relationship Manager | As a Relationship Manager I would like to be able to get a list of potential customers to get in touch with from the system so that I can be more efficient at my work. | 1 | Medium
-105 | Relationship Manager | As a Relationship Manager I would like to be able to record a number of successful calls made with proposed customers so that I can track the performance. | 1 | Medium
-106 | Relationship Manager | As a Relationship Manager I would like the system to direct customer calls to me based on our compatibility so that I can assist with their queries quicker and customise the answer. | 1 | High
-107 | Relationship Manager | As a Relationship Manager I would like the system to assign each customer a score based on likelihood to purchase the product is given to the customer according to some preloaded criteria (repeat customer, customer from particular postcode) so that I get the most perfect match. | 1 | medium
-108 | Relationship Manager | As a Relationship Manager I would like the system to retrieve customers details from the database so that I can optimise my time managing customers information. | 1 | High
-201 | MTC executives | As a MTC executive team we would like the system to be able to produce high level reports of CMC performance including costs, revenues, profits, and overall portfolio summary so that we can monitor performance and make strategic decisions. | 1 | High
-202 | MTC executives | As a MTC executive team we would like the system to direct customer to Interactive Voice Response IVR during busy times so that we can optimise the CMC performance and keep customers on the line and engaged. | 1 | Low
-203 | MTC executives | As a MTC executive team we would like the system to prompt options to customers during IVR including reasons for calls and then redirect to the Automatic Call Distributor routing which will assign the first available RM to answer the call. | 1 | Low
-204 | MTC executives | As a MTC executive team we would like the system to manage both inbound and outbound calls so that CMC performance is optimized. | 1 | High
-205 | MTC executives | As a MTC executive team we would like the system routing and distribution routing that minimizes inbound call costs by reducing per-call handling time so that we can cut unnecessary costs. | 1 | Medium
-301 | CMC management | As a CMC management team we would like the system to be able to produce summary reports on Relationship Management performance so that we can analyse what training to provide to them. | 1 | Low
-302 | CMC management | As a CMC management team we would like the system to be able to show a summary of all managed Relationship Managers performance so that we can track each team's sales and work hours. | 1 | High
-303 | CMC management | As a CMC management team we would like the system to be able to track the working hours of Relationship Managers so that we can track performance and communicate this information with payroll. | 1 | Medium
-304 | CMC management | As a CMC management team we would like the system to be able record conversations between customers and Relationship Managers so that it can be used later for training purposes. | 1 | Low
-305 | CMC management | As a CMC management team we would like the system to show Relationship Managers individual profiles so that we can view and edit details as necessary. | 1 | Medium
-306 | CMC management | As a CMC management team we would like the system to assign each Relationship Manager a skill score from 1-10  calculated based on RM’s previous call duration and profile. | 1 | Medium
-307 | CMC management | As a CMC management team we would like the system to access Relationship Managers profiles from Portfolier Tool so that we can communicate information easily with HR. | 1 | High
-308 | MTC customer | As a MTC customer I would like to get in touch with a Relationship Manager over phone so that they can assist with  my query. | 1 | High
-309 | MTC customer | As a MTC customer I would like my call to be answered as quickly as possible by the Relationship Manager so that my query will be resolved efficiently. | 1 | High
-
-### Stakeholder Analysis Table
-Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - Low)
---- | --- | --- | ---
-**MTC Executive Team** | Overall profitability; Satisfaction of investors/shareholders; Achieving targets | Medium/High – have the final say regarding all financial and executive decisions on the project | 2 (High)
-**Relationship Managers (RMs)** | Maintaining positive customer relationships; Maximising sales; Address needs of customers | High – with regard to their position influence is relatively minor. However, they are directly impacted in their ability to perform their role by new system so input from them is important | 1 (Critical)
-**CMC Managment Team** | Minimal disruption to services; Efficient allocation of resources (time, physical, monetary) | Low/Medium – oversee the entirety of CMC and indirectly involved in rollout and maintenance of system | 3 (Low)
-**Projects Team** | Satisfaction of user requirements; Smooth rollout of system; Adherence to development timeline | High – tasked with and responsible for the design and implementation of the new system | 1 (Critical)
-**Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
-**Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
-**Competitors** | Gaining competitive advantage; Increasing market share | Low/Medium – competitors approaches to customer relation management should be analysed and compared to the proposed system, but not necessarily dictate the new systems architecture  | 3 (Low)
-
-
-### Stakeholder Interest & Influence Grid
-![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete.png)
-
-## Stakeholder Empathy Maps
-## RM Empathy Map
-![RM empathy map](images/Empathy_Map_RM.png)
-
-## Customer Empathy Map
-![Customer empathy map](images/Empathy_Map_Customer.png)
