@@ -537,6 +537,9 @@ Exceptions | Exception1. Step 1 – If the New system is not available and the s
 
 #### Activity Diagram (UC101)
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
+
+___
+
 ## Class Diagram
 <span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
 ![Class Diagram](images/ClassDiagram.png)
