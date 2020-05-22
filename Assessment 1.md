@@ -8,14 +8,35 @@ _13381177 (Marcus Huth)_
 _12590143 (Mikhail Fedulov)_
 
 ![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
-</div>
+
 
 ___  
 ## Index
+[**Current Problem and Objectives of the Project Section**](#current-problem-and-objectives-of-the-project)  
+[Background](#Background)  
+[Objectives](#Objectives)  
+[Problem Definition](#Problem-Definition)  
+[Assumptions](#Assumptions)  
+[KPIs](#KPIs)  
 
-[Current Problem and Objectives of the Project](#current-problem-and-objectives-of-the-project)
 
-[Customer Interview Screenshots](###Customer%20Interview%20Screenshots)
+**Stakeholder Analysis Section**    
+[Stakeholder POV](#Stakeholder-POV)  
+[Stakeholder Analysis Table](#Stakeholder-Analysis-Table)  
+[Stakeholder Interest & Influence Grid](#Stakeholder-Interest-&-Influence-Grid)  
+[Stakeholder Empathy Maps](#Stakeholder-Empathy-Maps)  
+
+
+[User Story Backlog](#User-Story-Backlog)  
+[Approach to Project Solution](#Approach-to-Project-Solution)  
+[Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)  
+[Class Diagram](#Class-Diagram)
+
+
+[**Appendix**](#Appendix)  
+[Roleplay Interviews](#Stakeholder-Role-Play-Interviews)    
+
+</div>
 
 ___
 ## Current Problem and Objectives of the Project
