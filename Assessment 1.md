@@ -200,7 +200,45 @@ ___
 
 
 
+## Approach to Project Solution
+### How-Might-We
+To further understand the problem areas the team developed a series of How-Might-We questions based on insights found during the research phase. The goal was to state questions that are broad enough that provide a wide range of possible solutions yet narrow enough that the project has helpful boundaries. The questions were derived from each stakeholder category and were designed to be actionable, but not targeted to a specific project area: 
 
+
+* **Major travel Company executive team**
+1. How might we improve yearly sales for the CMC center so that the company generates higher revenue. 
+2. How might we increase the positive reception for the CMC customers so that the company has a better publick outlook and more return customers. 
+3. How might we raise the company evaluation so that the company investors and shareholders are abiquently satisfied. 
+
+
+* **RM (Relationship Managers)**
+1. How might we be more efficient when interacting with customers so that our sales go up. 
+2. How might we reduce manual tasks so that we can reach more customers a day. 
+3. How might we find customers with requirements that directly correlate with their own knowledge
+
+* **CMC management**
+1. How might we reduce micromanagement of the Relationship Managers so that the team spends less time on unnecessary operations.
+2. How might we increase RM’s confidence in sales calls so that the relevant training and support is provided only when needed.
+3. How might we improve the CMC proficiency so that the department has a better outlook and funding. 
+
+* **Project Team**
+1. How might we develop a solution that appeases all stakeholders needs so that the project goals are achieved. 
+2. How might we develop a high quality solution so that it passes other stakeholders acceptance testing.
+3. How might we develop the solution on time so that the project will be complimented within the boundaries of the allocated budget. 
+
+
+
+* **Other CMC employees**
+1. How might we have a robust system that is easy to interact with so that we can be more efficient at processing ongoing maintenance requests. 
+2. How might we improve the system so that we can produce more quality work. 
+
+* **Customers**
+1. How might we receive a better and more personolised service so that we would be encouraged to come back.
+2. How might we be processed with greater efficiency so that we don’t have to wait a long time on the phone. 
+
+* **Company Investors and Shareholders**
+1. How might we provide better support to the company so that the company market share value will increase. 
+2. How might we create more positive economic environment for the company so that the company has secure funds for further improvements. 
 
 
 
