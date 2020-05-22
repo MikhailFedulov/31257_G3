@@ -470,6 +470,12 @@ E2.Steps 1-4 – The CMC system crashes
   </tr>
 </table>
 
+#### Activity Diagram (UC303)
+
+### Use Case 101
+
+#### Activity Diagram (UC101)
+![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
 ## Class Diagram
 <span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
 ![Class Diagram](images/ClassDiagram.png)
