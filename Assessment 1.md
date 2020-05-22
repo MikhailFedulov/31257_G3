@@ -26,14 +26,14 @@ ___
 [Stakeholder Interest & Influence Grid](#Stakeholder-Interest-and-Influence-Grid)  
 [Stakeholder Empathy Maps](#Stakeholder-Empathy-Maps)  
 
-
+**User Story/Data Modelling Section**  
 [User Story Backlog](#User-Story-Backlog)  
 [Approach to Project Solution](#Approach-to-Project-Solution)  
 [Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)  
 [Class Diagram](#Class-Diagram)
 
 
-[**Appendix**](#Appendix)  
+**Appendix**   
 [Roleplay Interviews](#Stakeholder-Role-Play-Interviews)    
 
 </div>
