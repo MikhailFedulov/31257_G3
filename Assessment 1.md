@@ -30,12 +30,10 @@ ___
 [User Story Backlog](#User-Story-Backlog)  
 [Approach to Project Solution](#Approach-to-Project-Solution)  
 
-**Use Case Section**  
+**Use Case/Activity Diagram Section**  
 [Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)  
-[Use Case 303](#Use-Case-303)  
-[Activity Diagram 303](#Activity-Diagram-(UC303))    
+[Use Case 303](#Use-Case-303)   
 [Use Case 101](#Use-Case-101)  
-[Activity Diagram 101](#Activity-Diagram-(UC101))
 
 **Data Modelling Section**    
 [Class Diagram](#Class-Diagram)
