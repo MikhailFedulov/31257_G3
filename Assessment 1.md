@@ -43,10 +43,12 @@ To reduce the CMC operations costs, increase sales and improve customer satisfac
 ### Assumptions
 1. For the purpose of this project, it is assumed that customer profile creation tool Profiler Tool has been implemented, tested, and supports communication with other enterprise systems including the new CMC system.
 2. HR system that creates profiles for Relationship Managers upon hiring and is capable of building matrices for each employee that later can be communicated to other enterprise systems including the new CMC system.
-3. Project is approved and passed financial due diligence.
+3. Project has been approved by the MTC Executives and investors and has passed fthe inancial due diligence.
 4. The project rollout is well thought out by the implementation team to minimise CMC downtime.  
 5. The existing CMC operations rely on manual input and data manipulation from the users including, Relationship Managers, Business Analysts  and IT.
 6. MTC has had an incremental loss due to low CMC efficiency. Sales and portfolio goals weren’t met in the last 3 years which led the company to reevaluate CMC operations.
+7. MTC will source the project team from internal and external resources. 
+7. There are no barriers for the project implementation at this stage.
 
 
 
