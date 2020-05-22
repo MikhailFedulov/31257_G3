@@ -13,7 +13,7 @@ _12590143 (Mikhail Fedulov)_
 ___  
 ## Index
 
-[Current Problem and Objectives of the Project](##Current%20Problem%20and%20Objectives%20of%20the%20Project)
+[Current Problem and Objectives of the Project](#current-problem-and-objectives-of-the-project)
 
 [Customer Interview Screenshots](###Customer%20Interview%20Screenshots)
 
