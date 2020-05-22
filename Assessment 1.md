@@ -234,7 +234,7 @@ ___
 |  513 | CMC Manager | have an RM account created immediately after request | the profile is created in a timely manner | 1 | High | Story | RM Profile Managment |
 |  514 | CMC Manager | have an RM account deactivated immediately after request | the profile cannot be accessed after deactivation | 1 | High | Story | RM Profile Managment |   
 
-
+___
 
 ## Approach to Project Solution
 ### How-Might-We
@@ -275,6 +275,8 @@ To further understand the problem areas the team developed a series of How-Might
 * **Company Investors and Shareholders**
 1. How might we provide better support to the company so that the company market share value will increase.
 2. How might we create more positive economic environment for the company so that the company has secure funds for further improvements.
+
+___
 
 ## Use Case Narratives
 ### Use Case 303
