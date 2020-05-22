@@ -21,9 +21,9 @@ ___
 
 
 **Stakeholder Analysis Section**    
-[Stakeholder POV](#Stakeholder-POV)  
+[Stakeholder POV](#Stakeholders-POV)  
 [Stakeholder Analysis Table](#Stakeholder-Analysis-Table)  
-[Stakeholder Interest & Influence Grid](#Stakeholder-Interest-&-Influence-Grid)  
+[Stakeholder Interest & Influence Grid](#Stakeholder-Interest-and-Influence-Grid)  
 [Stakeholder Empathy Maps](#Stakeholder-Empathy-Maps)  
 
 
@@ -141,7 +141,7 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
 
 ___
-## Stakeholder Interest & Influence Grid
+## Stakeholder Interest and Influence Grid
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete_Revision1.png)
 ___
 ## Stakeholder Empathy Maps
