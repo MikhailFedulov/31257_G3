@@ -474,7 +474,7 @@ E2.Steps 1-4 – The CMC system crashes
 <span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
 ![Class Diagram](images/ClassDiagram.png)
 
-
+---
 ## Appendix
 
 ## Stakeholder Role Play Interviews
