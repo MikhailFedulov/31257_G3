@@ -709,6 +709,8 @@ E2. Steps 1-3 – The CMC application crashes.
 
 #### Activity Diagram (UC103)
 
+![Activity Diagram UC 103](images/ActivityDiagramUC103.jpg)
+
 ### Use Case 101
 <table>
   <tr>
