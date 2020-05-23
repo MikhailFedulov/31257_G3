@@ -284,15 +284,8 @@ After all key stakeholders have been identified and their needs understood the t
 ### Suggestions / Ideas:
 
 **Idea 1:** Object Oriented Programming to be used for system development
-* Advantages
-Modularity for easier troubleshooting
-Reuse of code through inheritance
-Flexibility through polymorphism
-Effective problem solving
-* Disadvantages
-It can cause duplication.
-Larger program size
-Slower programs
+* Advantages - Modularity for easier troubleshooting, Reuse of code through inheritance, Flexibility through polymorphism, Effective problem solving
+* Disadvantages - It can cause duplication, Larger program size, Slower programs
 
 
 **Idea 2:** Cloud Computing technologies 
