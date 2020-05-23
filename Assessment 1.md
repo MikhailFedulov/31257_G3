@@ -7,10 +7,9 @@ _12933610(Matthew Fouad)_
 _13381177 (Marcus Huth)_  
 _12590143 (Mikhail Fedulov)_
 
-![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
+![MTC Logo](images/MTC_Logo.png)
 
-
-___  
+___
 ## Index
 **Current Problem and Objectives of the Project Section**  
 [Background](#Background)  
@@ -44,6 +43,8 @@ ___
 
 </div>
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Current Problem and Objectives of the Project
 
@@ -59,7 +60,7 @@ MTC approached us to conduct the project due diligence and develop a business re
 For the project to be successful the following objectives have been extracted from the project debrief and the client’s needs. The client desires a more efficient and robust system which will be able to distribute the CMC load accordingly now and in the future. Based on the information provided by the client, three primary objectives have been identified which will influence the decision making process throughout the project life cycle:
 
 1. Improve customer experience which will reflect on 2% lower churn rate after one year of operations of the new system.  
-2. Increase travel packages sales by 5% within the first year of the new system implementation.
+2. Increase travel packages sales by 10px within the first year of the new system implementation.
 3. Minimise costs of inbound calls by 20% within the first year of the new system implementation.
 
 This report includes the key information required for successful project delivery including KPIs, stakeholder analysis, project assumptions, system design including workproducts and practical models, and identifies competitive advantages that might be gained in developing the new system.
@@ -104,6 +105,9 @@ Minimise costs of inbound calls
 * Savings
 * Cost Reduction
 * Cost Avoidance
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Stakeholders POV
 
@@ -133,6 +137,8 @@ A **Customer** pertains to any individual who will be utilizing the product upon
 * __Company Investors and Shareholders__  
 __Investors/Shareholders__ Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution. The investor/shareholder **needs** solutions that will directly increase their shares value in the market as well as future proof their investment in the business **because** ultimately, investors/shareholders are solely concerned with economic value and without them the business would lose funding.
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 
 ## Stakeholder Analysis Table
@@ -146,9 +152,14 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Stakeholder Interest and Influence Grid
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete_Revision1.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Stakeholder Empathy Maps
 ### RM Empathy Map
@@ -156,8 +167,8 @@ ___
 
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
-___
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
 ## User Story Backlog
@@ -234,6 +245,8 @@ ___
 |  513 | CMC Manager | have an RM account created immediately after request | the profile is created in a timely manner | 1 | High | Story | RM Profile Managment |
 |  514 | CMC Manager | have an RM account deactivated immediately after request | the profile cannot be accessed after deactivation | 1 | High | Story | RM Profile Managment |   
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 
 ## Approach to Project Solution
@@ -273,6 +286,8 @@ To further understand the problem areas the team developed a series of How-Might
 * **Company Investors and Shareholders**
 1. How might we provide better support to the company so that the company market share value will increase.
 2. How might we create more positive economic environment for the company so that the company has secure funds for further improvements.
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
 
@@ -709,13 +724,17 @@ Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime
 #### Activity Diagram (UC101)
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 
 ## Class Diagram
 <span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
 ![Class Diagram](images/ClassDiagram.png)
 
----
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
 ## Appendix
 
 ## Stakeholder Role Play Interviews
