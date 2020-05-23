@@ -7,7 +7,7 @@ _12933610(Matthew Fouad)_
 _13381177 (Marcus Huth)_  
 _12590143 (Mikhail Fedulov)_
 
-![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
+![MTC Logo](images/MTC_Logo.png)
 
 
 ___  
