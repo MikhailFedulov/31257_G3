@@ -509,31 +509,178 @@ E2.Steps 1-4 – The CMC system crashes
 #### Activity Diagram (UC303)
 
 ### Use Case 101
-Requirements | Conditions |
------------- | -------------
-Use Case ID | UC101: View Individual Customer Sales History
-User Story | US110 As a Relationship Manager, I want to view sales history of a customer so that I can get a more accurate gauge on customers past sales.
-Goal | Relationship Manager needs to be able to view individual customer sales history to analyse the sales performance and make future plans.
-Priority | High
-Estimates | 3
-Actors| Primary Actor – Relationship Manager Secondary Actor – New CMC System
-Pre-conditions | The Relationship Manager has access to the NEW CMC System. The Relationship Manager has a valid credentials
-Post-conditions | The Relationship Manager has successfully viewed a customer sales history via the New CMC System.
-Trigger | The Relationship Manager navigates to the New System on an internet browser.
-Main Flow | 1. The system displays a landing page with navigation menu, user basic details, and notifications. 2. The Relationship Manager navigates to the Customers Tab by clicking on it in the navigation menu. Alternate Flow 1 “Sales History Tab Option”. 3. The system displays a list of existing customers that the RM interacted with. 4. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 5. The system displays the selected customer profile window with their contact details and an action menu. * The Relationship Manager selects Sales History from the action menu by clicking on it. 7. The system displays sales history records within the customer profile window.
-Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
-Includes/Extends/Inherits | Includes “UC102: Pay Fare” Extended by “UC103: Print Ticket”
-Supporting Information | Customer, Relationship Manager, and Sales History records need to be stored on a central server.  
-Non-functional Requirements | Performance: Page load time Security: The system has robust authentication features with Two steps verification option.
+<table>
+  <tr>
+   <td><strong>Use Case ID</strong>
+   </td>
+   <td>UC101: View Individual Customer Sales History
+   </td>
+  </tr>
+  <tr>
+   <td><strong>User Story</strong>
+   </td>
+   <td>US110 As a Relationship Manager, I want to view sales history of a customer so that I can get a more accurate gauge on customers past sales.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Goal </strong>
+   </td>
+   <td>Relationship Manager needs to be able to view individual customer sales history to analyse the sales performance and make future plans.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Priority</strong>
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Estimates</strong>
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Actors</strong>
+   </td>
+   <td>Primary Actor – Relationship Manager
+<p>
+Secondary Actor – New CMC System
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pre-conditions</strong>
+   </td>
+   <td>The Relationship Manager has access to the NEW CMC System.
+<p>
+The Relationship Manager has a valid credentials
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The Relationship Manager has successfully viewed a customer sales history via the New CMC System.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The Relationship Manager navigates to the New System on an internet browser.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Main Flow</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The system displays a landing page with navigation menu, user basic details, and notifications.  
 
 
-Requirements | Conditions |
------------- | -------------
-Alternate Flow 1 | “Sales History Tab Option”  
-Trigger | The Relationship Manager clicks on Sales History tab to the New System
-Step | 1. The system displays a Sales History page with a list of customers to choose from. 2. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 3. The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details. 4. The Relationship Manage clicks on the toggle button to view individual sales in detail.
-Post-conditions | The new system successfully displayed the Sales History page.
-Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
+<li>The Relationship Manager navigates to the Customers Tab by clicking on it in the navigation menu. <strong>Alternate Flow 1 “Sales History Tab Option”</strong>.
+
+
+<li>The system displays a list of existing customers that the RM interacted with.  
+
+
+<li>The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon.  
+
+
+<li>The system displays the selected customer profile window with their contact details and an action menu.  
+
+
+<li>The Relationship Manager selects Sales History from the action menu by clicking on it.  
+
+
+<li>The system displays sales history records within the customer profile window.  
+
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>Exception1. Step 1 – If the New system is not available and the system is down.
+
+Exception2. Steps 1-7 – passenger closes the browser window anytime.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Includes/Extends/Inherits</strong>
+   </td>
+   <td>Includes<strong> “UC102: Pay Fare”</strong>
+<p>
+Extended by <strong>“UC103: Print Ticket”</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Supporting Information</strong>
+   </td>
+   <td>Customer, Relationship Manager, and Sales History records need to be stored on a central server.  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Non-functional Requirements</strong>
+   </td>
+   <td>Performance: Page load time
+<p>
+Security: The system has robust authentication features with Two steps verification option.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 1</strong>
+   </td>
+   <td>“Sales History Tab Option”  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The Relationship Manager clicks on Sales History tab to the New System
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The system displays a Sales History page with a list of customers to choose from.  
+
+
+<li>The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon.  
+
+
+<li>The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details.
+
+
+<li>The Relationship Manage clicks on the toggle button to view individual sales in detail.
+
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The new system successfully displayed the Sales History page.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>Exception1. Step 1 – If the New system is not available and the system is down.
+
+Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime.
+   </td>
+  </tr>
+</table>
 
 #### Activity Diagram (UC101)
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
