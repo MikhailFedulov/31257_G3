@@ -9,8 +9,7 @@ _12590143 (Mikhail Fedulov)_
 
 ![MTC Logo](images/MTC_Logo.png)
 
-
-___  
+___
 ## Index
 **Current Problem and Objectives of the Project Section**  
 [Background](#Background)  
@@ -43,6 +42,8 @@ ___
 [Roleplay Interviews](#Stakeholder-Role-Play-Interviews)    
 
 </div>
+
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
 
 ___
 ## Current Problem and Objectives of the Project
@@ -104,6 +105,9 @@ Minimise costs of inbound calls
 * Savings
 * Cost Reduction
 * Cost Avoidance
+
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
+
 ___
 ## Stakeholders POV
 
@@ -133,6 +137,8 @@ A **Customer** pertains to any individual who will be utilizing the product upon
 * __Company Investors and Shareholders__  
 __Investors/Shareholders__ Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution. The investor/shareholder **needs** solutions that will directly increase their shares value in the market as well as future proof their investment in the business **because** ultimately, investors/shareholders are solely concerned with economic value and without them the business would lose funding.
 
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
+
 ___
 
 ## Stakeholder Analysis Table
@@ -146,9 +152,14 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
 
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
+
 ___
 ## Stakeholder Interest and Influence Grid
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete_Revision1.png)
+
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
+
 ___
 ## Stakeholder Empathy Maps
 ### RM Empathy Map
@@ -156,8 +167,8 @@ ___
 
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
-___
 
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
 
 ___
 ## User Story Backlog
@@ -234,6 +245,8 @@ ___
 |  513 | CMC Manager | have an RM account created immediately after request | the profile is created in a timely manner | 1 | High | Story | RM Profile Managment |
 |  514 | CMC Manager | have an RM account deactivated immediately after request | the profile cannot be accessed after deactivation | 1 | High | Story | RM Profile Managment |   
 
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
+
 ___
 
 ## Approach to Project Solution
@@ -275,6 +288,8 @@ To further understand the problem areas the team developed a series of How-Might
 * **Company Investors and Shareholders**
 1. How might we provide better support to the company so that the company market share value will increase.
 2. How might we create more positive economic environment for the company so that the company has secure funds for further improvements.
+
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
 
 ___
 
@@ -685,13 +700,17 @@ Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime
 #### Activity Diagram (UC101)
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
 
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
+
 ___
 
 ## Class Diagram
 <span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
 ![Class Diagram](images/ClassDiagram.png)
 
----
+<img src="images/MTC_logo.png" alt="MTC_Logo" style="width:50px;height:50px;" align="left"/>
+
+___
 ## Appendix
 
 ## Stakeholder Role Play Interviews
