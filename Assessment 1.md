@@ -7,10 +7,9 @@ _12933610(Matthew Fouad)_
 _13381177 (Marcus Huth)_  
 _12590143 (Mikhail Fedulov)_
 
-![Call Centre stock picture](images/the-skills-your-call-center-training-should-focus-on.jpg)
+![MTC Logo](images/MTC_Logo.png)
 
-
-___  
+___
 ## Index
 **Current Problem and Objectives of the Project Section**  
 [Background](#Background)  
@@ -44,6 +43,8 @@ ___
 
 </div>
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Current Problem and Objectives of the Project
 
@@ -59,7 +60,7 @@ MTC approached us to conduct the project due diligence and develop a business re
 For the project to be successful the following objectives have been extracted from the project debrief and the client’s needs. The client desires a more efficient and robust system which will be able to distribute the CMC load accordingly now and in the future. Based on the information provided by the client, three primary objectives have been identified which will influence the decision making process throughout the project life cycle:
 
 1. Improve customer experience which will reflect on 2% lower churn rate after one year of operations of the new system.  
-2. Increase travel packages sales by 5% within the first year of the new system implementation.
+2. Increase travel packages sales by 10px within the first year of the new system implementation.
 3. Minimise costs of inbound calls by 20% within the first year of the new system implementation.
 
 This report includes the key information required for successful project delivery including KPIs, stakeholder analysis, project assumptions, system design including workproducts and practical models, and identifies competitive advantages that might be gained in developing the new system.
@@ -104,6 +105,9 @@ Minimise costs of inbound calls
 * Savings
 * Cost Reduction
 * Cost Avoidance
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Stakeholders POV
 
@@ -133,6 +137,8 @@ A **Customer** pertains to any individual who will be utilizing the product upon
 * __Company Investors and Shareholders__  
 __Investors/Shareholders__ Those that fund the companies ventures and have financial stakes in the ongoings of the travel company. As they are the financial contributors of the company they are the stakeholders that the executive team are most focused on pleasing and therefore their needs must be met by the development teams solution. The investor/shareholder **needs** solutions that will directly increase their shares value in the market as well as future proof their investment in the business **because** ultimately, investors/shareholders are solely concerned with economic value and without them the business would lose funding.
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 
 ## Stakeholder Analysis Table
@@ -146,9 +152,14 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Stakeholder Interest and Influence Grid
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete_Revision1.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 ## Stakeholder Empathy Maps
 ### RM Empathy Map
@@ -156,8 +167,8 @@ ___
 
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
-___
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
 ## User Story Backlog
@@ -234,6 +245,8 @@ ___
 |  513 | CMC Manager | have an RM account created immediately after request | the profile is created in a timely manner | 1 | High | Story | RM Profile Managment |
 |  514 | CMC Manager | have an RM account deactivated immediately after request | the profile cannot be accessed after deactivation | 1 | High | Story | RM Profile Managment |   
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 
 ## Approach to Project Solution
@@ -262,8 +275,6 @@ To further understand the problem areas the team developed a series of How-Might
 2. How might we develop a high quality solution so that it passes other stakeholders acceptance testing.
 3. How might we develop the solution on time so that the project will be complimented within the boundaries of the allocated budget.
 
-
-
 * **Other CMC employees**
 1. How might we have a robust system that is easy to interact with so that we can be more efficient at processing ongoing maintenance requests.
 2. How might we improve the system so that we can produce more quality work.
@@ -276,7 +287,35 @@ To further understand the problem areas the team developed a series of How-Might
 1. How might we provide better support to the company so that the company market share value will increase.
 2. How might we create more positive economic environment for the company so that the company has secure funds for further improvements.
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
+
+
+## Brainstorm 
+After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem. 
+
+
+### Suggestions / Ideas:
+
+**Idea 1:** Object Oriented Programming to be used for system development
+* Advantages - Modularity for easier troubleshooting, Reuse of code through inheritance, Flexibility through polymorphism, Effective problem solving
+* Disadvantages - It can cause duplication, Larger program size, Slower programs
+
+
+**Idea 2:** Cloud Computing technologies 
+* Advantages - Easy implementation, Accessibility, No hardware required, Flexibility for growth
+
+* Disadvantages - May not get all the features, Low level of control, Bandwidth issues
+
+**Final Decision:** Both, Idea 1 and Idea 2 follow best modern practices for system development. It is likely that the stakeholder majority will support both ideas and the Project Team will be involved in the implementation process. 
+
+
+**Action Items:** Communicate both ideas with all stakeholder groups with the Project team designate action items to each individual present so that someone is directly responsible for following up during the brainstorming session.
+
+
+___
+
 
 ## Use Case Narratives
 ### Use Case 303
@@ -509,34 +548,183 @@ E2.Steps 1-4 – The CMC system crashes
 #### Activity Diagram (UC303)
 
 ### Use Case 101
-Requirements | Conditions |
------------- | -------------
-Use Case ID | UC101: View Individual Customer Sales History
-User Story | US110 As a Relationship Manager, I want to view sales history of a customer so that I can get a more accurate gauge on customers past sales.
-Goal | Relationship Manager needs to be able to view individual customer sales history to analyse the sales performance and make future plans.
-Priority | High
-Estimates | 3
-Actors| Primary Actor – Relationship Manager Secondary Actor – New CMC System
-Pre-conditions | The Relationship Manager has access to the NEW CMC System. The Relationship Manager has a valid credentials
-Post-conditions | The Relationship Manager has successfully viewed a customer sales history via the New CMC System.
-Trigger | The Relationship Manager navigates to the New System on an internet browser.
-Main Flow | 1. The system displays a landing page with navigation menu, user basic details, and notifications. 2. The Relationship Manager navigates to the Customers Tab by clicking on it in the navigation menu. Alternate Flow 1 “Sales History Tab Option”. 3. The system displays a list of existing customers that the RM interacted with. 4. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 5. The system displays the selected customer profile window with their contact details and an action menu. * The Relationship Manager selects Sales History from the action menu by clicking on it. 7. The system displays sales history records within the customer profile window.
-Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
-Includes/Extends/Inherits | Includes “UC102: Pay Fare” Extended by “UC103: Print Ticket”
-Supporting Information | Customer, Relationship Manager, and Sales History records need to be stored on a central server.  
-Non-functional Requirements | Performance: Page load time Security: The system has robust authentication features with Two steps verification option.
+<table>
+  <tr>
+   <td><strong>Use Case ID</strong>
+   </td>
+   <td>UC101: View Individual Customer Sales History
+   </td>
+  </tr>
+  <tr>
+   <td><strong>User Story</strong>
+   </td>
+   <td>US110 As a Relationship Manager, I want to view sales history of a customer so that I can get a more accurate gauge on customers past sales.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Goal </strong>
+   </td>
+   <td>Relationship Manager needs to be able to view individual customer sales history to analyse the sales performance and make future plans.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Priority</strong>
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Estimates</strong>
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Actors</strong>
+   </td>
+   <td>Primary Actor – Relationship Manager
+<p>
+Secondary Actor – New CMC System
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pre-conditions</strong>
+   </td>
+   <td>The Relationship Manager has access to the NEW CMC System.
+<p>
+The Relationship Manager has a valid credentials
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The Relationship Manager has successfully viewed a customer sales history via the New CMC System.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The Relationship Manager navigates to the New System on an internet browser.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Main Flow</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The system displays a landing page with navigation menu, user basic details, and notifications.  
 
 
-Requirements | Conditions |
------------- | -------------
-Alternate Flow 1 | “Sales History Tab Option”  
-Trigger | The Relationship Manager clicks on Sales History tab to the New System
-Step | 1. The system displays a Sales History page with a list of customers to choose from. 2. The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon. 3. The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details. 4. The Relationship Manage clicks on the toggle button to view individual sales in detail.
-Post-conditions | The new system successfully displayed the Sales History page.
-Exceptions | Exception1. Step 1 – If the New system is not available and the system is down. Exception2. Steps 1-7 – passenger closes the browser window anytime.
+<li>The Relationship Manager navigates to the Customers Tab by clicking on it in the navigation menu. <strong>Alternate Flow 1 “Sales History Tab Option”</strong>.
+
+
+<li>The system displays a list of existing customers that the RM interacted with.  
+
+
+<li>The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon.  
+
+
+<li>The system displays the selected customer profile window with their contact details and an action menu.  
+
+
+<li>The Relationship Manager selects Sales History from the action menu by clicking on it.  
+
+
+<li>The system displays sales history records within the customer profile window.  
+
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>Exception1. Step 1 – If the New system is not available and the system is down.
+
+Exception2. Steps 1-7 – passenger closes the browser window anytime.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Includes/Extends/Inherits</strong>
+   </td>
+   <td>Includes<strong> “UC102: Pay Fare”</strong>
+<p>
+Extended by <strong>“UC103: Print Ticket”</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Supporting Information</strong>
+   </td>
+   <td>Customer, Relationship Manager, and Sales History records need to be stored on a central server.  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Non-functional Requirements</strong>
+   </td>
+   <td>Performance: Page load time
+<p>
+Security: The system has robust authentication features with Two steps verification option.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 1</strong>
+   </td>
+   <td>“Sales History Tab Option”  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The Relationship Manager clicks on Sales History tab to the New System
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The system displays a Sales History page with a list of customers to choose from.  
+
+
+<li>The Relationship Manager selects a customer they would like to bring the sales history from by clicking on their icon.  
+
+
+<li>The system displays the selected customer profile page with a list of sales history summary and displays a toggle button to expand each sales record to see more details.
+
+
+<li>The Relationship Manage clicks on the toggle button to view individual sales in detail.
+
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The new system successfully displayed the Sales History page.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>Exception1. Step 1 – If the New system is not available and the system is down.
+
+Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime.
+   </td>
+  </tr>
+</table>
 
 #### Activity Diagram (UC101)
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
 
@@ -544,7 +732,9 @@ ___
 <span style="color:gray">*image file located in images folder(zoomable and HD)*</span>
 ![Class Diagram](images/ClassDiagram.png)
 
----
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
 ## Appendix
 
 ## Stakeholder Role Play Interviews
