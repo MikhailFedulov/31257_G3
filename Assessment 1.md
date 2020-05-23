@@ -295,23 +295,15 @@ Larger program size
 Slower programs
 
 
-**Idea 2:** 
-* Advantages
-Easy implementation
-Accessibility
-No hardware required
-Flexibility for growth
+**Idea 2:** Cloud Computing technologies 
+* Advantages - Easy implementation, Accessibility, No hardware required, Flexibility for growth
 
-* Disadvantages
-May not get all the features
-Low level of control
-Bandwidth issues
-
+* Disadvantages - May not get all the features, Low level of control, Bandwidth issues
 
 **Final Decision:** Both, Idea 1 and Idea 2 follow best modern practices for system development. It is likely that the stakeholder majority will support both ideas and the Project Team will be involved in the implementation process. 
 
 
-**Action Items:**  Communicate both ideas with all stakeholder groups with the Project team designate action items to each individual present so that someone is directly responsible for following up during the brainstorming session.
+**Action Items:** Communicate both ideas with all stakeholder groups with the Project team designate action items to each individual present so that someone is directly responsible for following up during the brainstorming session.
 
 
 ___
