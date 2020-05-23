@@ -262,8 +262,6 @@ To further understand the problem areas the team developed a series of How-Might
 2. How might we develop a high quality solution so that it passes other stakeholders acceptance testing.
 3. How might we develop the solution on time so that the project will be complimented within the boundaries of the allocated budget.
 
-
-
 * **Other CMC employees**
 1. How might we have a robust system that is easy to interact with so that we can be more efficient at processing ongoing maintenance requests.
 2. How might we improve the system so that we can produce more quality work.
@@ -277,6 +275,47 @@ To further understand the problem areas the team developed a series of How-Might
 2. How might we create more positive economic environment for the company so that the company has secure funds for further improvements.
 
 ___
+
+
+## Brainstorm 
+After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem. 
+
+
+### Suggestions / Ideas:
+
+**Idea 1:** Object Oriented Programming to be used for system development
+* Advantages
+Modularity for easier troubleshooting
+Reuse of code through inheritance
+Flexibility through polymorphism
+Effective problem solving
+* Disadvantages
+It can cause duplication.
+Larger program size
+Slower programs
+
+
+**Idea 2:** 
+* Advantages
+Easy implementation
+Accessibility
+No hardware required
+Flexibility for growth
+
+* Disadvantages
+May not get all the features
+Low level of control
+Bandwidth issues
+
+
+**Final Decision:** Both, Idea 1 and Idea 2 follow best modern practices for system development. It is likely that the stakeholder majority will support both ideas and the Project Team will be involved in the implementation process. 
+
+
+**Action Items:**  Communicate both ideas with all stakeholder groups with the Project team designate action items to each individual present so that someone is directly responsible for following up during the brainstorming session.
+
+
+___
+
 
 ## Use Case Narratives
 ### Use Case 303
