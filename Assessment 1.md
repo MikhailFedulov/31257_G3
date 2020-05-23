@@ -31,7 +31,8 @@ ___
 
 **Use Case/Activity Diagram Section**  
 [Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)  
-[Use Case 303](#Use-Case-303)   
+[Use Case 303](#Use-Case-303)
+[Use Case 103](#Use-Case-103)
 [Use Case 101](#Use-Case-101)  
 
 **Data Modelling Section**    
@@ -195,7 +196,7 @@ ___
 |  117 | Relationship Manager | be able to call customers back in the event of the a call dropout | I do not lose customers to call malfunction | 1 | High | Story | Call Facilitation |
 |  **SYSTEM ADMIN** |  |  |  |  |  |  |  |
 |  201 | System Admin | assign each customer a score based on criteria (likelyhood to buy etc.) | I can ensure good matches between the customer and RM | 8 | High | Story | Matching RM & Customer |
-|  202 | System Admin | direct customers to Interactive Voice Response(IVR) during busy times | I can optimise the CMC performance and keep customers on the line and engaged | 3 | High | Story | Call Facilitation |
+|  202 | System Admin | modify the threshold at which customers are directed to the Interactive Voice Response (IVR) | I can optimise the CMC performance and keep customers on the line and engaged | 3 | High | Story | Call Facilitation |
 |  203 | System Admin | have the system to prompt options to customers during IVR including reasons for calls, Travel destination etc. | The RM selection process can be done effciently | 5 | High | Story | Call Facilitation |
 |  204 | System Admin | have the system determine best candidate RM for customer | The RM connection to Customer can be facilitated | 12 | High | Epic | Matching RM & Customer |
 |  205 | System Admin | have the system rate customers on their likelihood to buy | The customers can be prioritised | 5 | Medium | Story | Matching RM & Customer |
@@ -323,7 +324,7 @@ ___
   <tr>
    <td><strong>Use Case ID</strong>
    </td>
-   <td>UC:303 - Deactivate a Relationship Manager account
+   <td>UC:303 - Create a Relationship Manager account
    </td>
   </tr>
   <tr>
@@ -546,6 +547,167 @@ E2.Steps 1-4 – The CMC system crashes
 </table>
 
 #### Activity Diagram (UC303)
+
+### Use Case 103
+<table>
+  <tr>
+   <td><strong>Use Case ID</strong>
+   </td>
+   <td>UC103: Direct Customers to Interactive Voice Response (IVR)
+   </td>
+  </tr>
+  <tr>
+   <td><strong>User Story</strong>
+   </td>
+   <td>US202 As a System Admin, I want to modify the threshold at which customers are directed to the Interactive Voice Response (IVR) so that I can optimise the CMC performance and keep customers on the line and engaged. 
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Goal </strong>
+   </td>
+   <td>System Admin needs to be able to set and modify the threshold of number of calls at which point callers will be automatically directed to the IVR to encourage caller retention and engagement.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Priority</strong>
+   </td>
+   <td>H
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Actors</strong>
+   </td>
+   <td>Primary Actor – System Admin
+<p>
+Secondary Actor –  New CMC System
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pre-conditions</strong>
+   </td>
+   <td>The Relationship Manager has access to the NEW CMC System.
+<p>
+The System Admin has valid credentials
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The System Admin has successfully set/modified the threshold at which callers are automatically directed to the IVR
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The System Admin logs in to the CMC System application. 
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Main Flow</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The system displays a landing page for System Admins.  
+
+<li>The System Admin navigates to the IVR Management Tab by clicking on it in the navigation menu.
+
+<li>The system displays IVR Management Page with the current status of the IVR system, along with options to manage the IVR system.The CMC application displays the RM management page.
+
+<li>The System Admin selects the Threshold Control option by clicking on it.
+
+<li>The system displays the Threshold Control page containing the currently set threshold, an input area to set a new threshold.
+
+<li>The System Admin enters a new threshold number into the presented field.
+
+<li>The System Admin clicks on the confirm button. If an ‘invalid value’ is entered, refer to <strong>Alternate Flow 1 ‘Invalid Value Entered’</strong>.
+
+<li>The system displays a confirmation dialogue confirming that the threshold has been updated with the new value.
+
+<li>The use case ends.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1. Step 1-9 – The System Admin closes the application at any time.
+<p>
+E2. Steps 1-9 – The CMC application crashes.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Includes</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Supporting Information</strong>
+   </td>
+   <td>CallManagement and IVR details need to be stored on a central server. 
+<p>
+An ‘invalid value’ may be any numerical value outside set ranges, or any value entered in an invalid format (i.e. containing letters, non-whole number).
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Non-functional Requirements</strong>
+   </td>
+   <td>Performance: Page load time.
+<p>
+Performance: Immediate system responsiveness to change.
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 1</strong>
+   </td>
+   <td>“Invalid Value Entered”  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>The System Admin enters an ‘invalid value’ as a new threshold number.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The system displays an error dialogue stating that ‘The value entered is not valid. Please enter a valid figure.’, and the new threshold value text field is cleared.
+
+<li>The System Admin acknowledges the error.
+
+<li>Re-join at Step 7 in the Main Flow.
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post conditions</strong>
+   </td>
+   <td>The System Admin has successfully entered a new threshold value
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>E1. Step 1-3 – The System Admin closes the application at any time.
+<p>
+E2. Steps 1-3 – The CMC application crashes.
+   </td>
+  </tr>
+</table>
+
+#### Activity Diagram (UC103)
 
 ### Use Case 101
 <table>
