@@ -30,10 +30,11 @@ ___
 [Approach to Project Solution](#Approach-to-Project-Solution)  
 
 **Use Case/Activity Diagram Section**  
-[Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)  
+[Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)
+[Use Case Diagram](#Use-Case-Diagram)
 [Use Case 303](#Use-Case-303)
 [Use Case 103](#Use-Case-103)
-[Use Case 101](#Use-Case-101)  
+[Use Case 101](#Use-Case-101)
 
 **Data Modelling Section**    
 [Class Diagram](#Class-Diagram)
@@ -319,6 +320,11 @@ ___
 
 
 ## Use Case Narratives
+
+### Use Case Diagram
+
+![Use Case Diagram](images/UseCaseDiagram.jpg)
+
 ### Use Case 303
 <table>
   <tr>
