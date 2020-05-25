@@ -522,7 +522,9 @@ E2.Steps 1-4 – The CMC system crashes
 </table>
 
 #### Activity Diagram (UC303)
-![UC303 Activity Diagram](images\UC303ActivityDiagramJett.png)
+
+![UC303 Activity Diagram](images/UC303ActivityDiagramJett.png)
+
 ### Use Case 101
 <table>
   <tr>
