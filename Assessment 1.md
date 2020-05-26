@@ -32,7 +32,7 @@ ___
 **Data Modelling Section**   
 [Use Case Narratives](#Use-Case-Narratives)  
 [Activity Diagrams](#Activity-Diagrams)  
-[Collaborative/Sequence Diagrams](#Collaborative/Sequence-Diagrams)  
+[Collaborative/Sequence Diagrams](#collaborativesequence-diagrams)  
 [Use Case Diagram](#Use-Case-Diagram)   
 [Class Diagram](#Class-Diagram)
 
