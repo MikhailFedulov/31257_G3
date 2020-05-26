@@ -29,14 +29,11 @@ ___
 [User Story Backlog](#User-Story-Backlog)  
 [Approach to Project Solution](#Approach-to-Project-Solution)  
 
-**Use Case/Activity Diagram Section**  
-[Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)
-[Use Case Diagram](#Use-Case-Diagram)
-[Use Case 303](#Use-Case-303)
-[Use Case 103](#Use-Case-103)
-[Use Case 101](#Use-Case-101)
-
-**Data Modelling Section**    
+**Data Modelling Section**   
+[Use Case Narratives](#Use-Case-Narratives)  
+[Activity Diagrams](#Activity-Diagrams)  
+[Collaborative/Sequence Diagrams](#Collaborative/Sequence-Diagrams)  
+[Use Case Diagram](#Use-Case-Diagram)   
 [Class Diagram](#Class-Diagram)
 
 
@@ -320,11 +317,6 @@ ___
 
 
 ## Use Case Narratives
-
-### Use Case Diagram
-
-![Use Case Diagram](images/UseCaseDiagram.jpg)
-
 ### Use Case 303
 <table>
   <tr>
@@ -552,7 +544,7 @@ E2.Steps 1-4 – The CMC system crashes
   </tr>
 </table>
 
-#### Activity Diagram (UC303)
+___
 
 ### Use Case 103
 <table>
@@ -713,9 +705,7 @@ E2. Steps 1-3 – The CMC application crashes.
   </tr>
 </table>
 
-#### Activity Diagram (UC103)
-
-![Activity Diagram UC 103](images/ActivityDiagramUC103v2.png)
+___
 
 ### Use Case 101
 <table>
@@ -891,8 +881,33 @@ Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime
   </tr>
 </table>
 
-#### Activity Diagram (UC101)
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
+
+## Activity Diagrams
+### Use Case 303
+![Activity Diagram UC 303](images/UC303ActivityDiagramJett.png)
+### Use Case 103
+![Activity Diagram UC 103](images/ActivityDiagramUC103v2.png)
+### Use Case 101
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
+
+## Collaborative/Sequence Diagrams
+### Use Case 303
+![Sequence diagram UC 303](images/Use_Case_303_Sequence_Diagram.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
+
+### Use Case Diagram
+
+![Use Case Diagram](images/UseCaseDiagram.jpg)
 
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
