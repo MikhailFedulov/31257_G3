@@ -42,6 +42,8 @@ ___
 [Project Failure Impact](#Project-Failure-Impact)
 
 **Appendix**   
+[GitHub Repository Link](#GitHub-Repository-Link)  
+[Google Drive Link](#Google-Drive-Link)  
 [Roleplay Interviews](#Stakeholder-Role-Play-Interviews)    
 
 </div>
@@ -1098,38 +1100,47 @@ ___
 
 ## Appendix
 
-## Stakeholder Role Play Interviews
+### GitHub Repository Link
+The link provided below will route directly to the GitHub Repository for the project ( An added precaution if necessary)   
+ https://github.com/MikhailFedulov/31257_G3
 
-### Interviewer Questions
-### Generic
-#### Introductory Questions
+### Google Drive link  
+The link provided below will allow access to the groups shared Google Drive folder wherein individual report component files are present
+ https://drive.google.com/drive/folders/1bQLglrNnpQsdbbix03REfL4v0F10OOZj?usp=sharing
+
+
+### Stakeholder Role Play Interviews
+
+#### Interviewer Questions
+#### Generic
+##### Introductory Questions
 1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
 2. To start off, how are you?
 
-#### Generic for both stakeholders
+##### Generic for both stakeholders
 3. What do you primarily use our service for?
 4. What is your biggest issue with the current system of call management?
 5. Are there any aspects of the current system you wish to remain intact in the change?
 6. What is the most important thing you would like to see added in the new system?
 7. What is your biggest concern with the proposed project?
 
-#### RM Specific Questions
+##### RM Specific Questions
 8. Do you think the implementation of the new system will have noticeable hindrance to productivity during the change period ?
 9. How comfortable are you learning a new system and are there any actions that can be taken to ease this transition?
 10. What criteria do you think will be important in the grouping of RM speciality?
 11. Do you think matching Customers to you based on perceived knowledge will improve call efficiency?
 
-#### Customer specific
+##### Customer specific
 8. What do you look for in a call experience?
 9. Currently how satisfied are you with the call time required for booking?
 10. On a scale of 1-10 how satisfied are you with our call representatives knowledge of what you’re seeking?
 11. What are some of the pain points you have experienced during the booking process?
 
-#### Closing formalities
+##### Closing formalities
 Thank You so much for your time today, your feedback will be a great
 help and will allow us to continue to provide a fantastic service.
 
-### RM Interview Script
+#### RM Interview Script
 **Interviewer:** Good Afternoon I’m Hugh, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do
 you mind if I ask you a few questions today?  
 _**RM:** Not at all go ahead_  
@@ -1157,7 +1168,7 @@ _**RM:** Oh definitely, If I’m more confident in the area the customer is look
 **Interviewer:** Thank You so much for your time today, your feedback will be a great help and We’ll ensure it is all considered in the new systems development, have a great day  
 _**RM:** Thank you, you too_
 
-### Customer Interview Script
+#### Customer Interview Script
 **Interviewer:** Good Afternoon I’m Jett, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?  
 _**RM:** No that’s quite alright_  
 **Interviewer:** To start off, how are you?  
@@ -1184,14 +1195,14 @@ _**RM:** Like I said before, the negative areas are generally based around wait 
 **Interviewer:** Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service  
 _**RM:** Glad to have helped!_
 
-### RM Interview Screenshots  
+#### RM Interview Screenshots  
 ![RM 1](images/interview_RM/RM_1.png)
 ![RM 2](images/interview_RM/RM_2.png)
 ![RM 3](images/interview_RM/RM_3.png)
 ![RM 4](images/interview_RM/RM_4.png)
 
 
-### Customer Interview Screenshots
+#### Customer Interview Screenshots
 ![Customer 1](images/interview_customer/Customer_1.png)
 ![Customer 2](images/interview_customer/Customer_2.png)
 ![Customer 3](images/interview_customer/Customer_3.png)
