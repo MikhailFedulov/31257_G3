@@ -886,6 +886,8 @@ Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime
   </tr>
 </table>
 
+___
+
 ### Use Case 402
 <table>
   <tr>
@@ -1003,42 +1005,6 @@ Security: The call must be secure as details conversed are highly sensitive and 
    </td>
   </tr>
 </table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Alternate Flow 1</strong>
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Trigger</strong>
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step</strong>
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Post-conditions</strong>
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Exceptions</strong>
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-</table>
-
 
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
