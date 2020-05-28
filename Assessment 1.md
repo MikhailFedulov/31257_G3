@@ -896,6 +896,8 @@ ___
 ![Activity Diagram UC 103](images/ActivityDiagramUC103v2.png)
 ### Use Case 101
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
+### Use Case 402
+![Activity Diagram UC 402](images/UC402-ActivityDiagram.png)
 
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
