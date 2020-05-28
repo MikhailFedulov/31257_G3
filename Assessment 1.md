@@ -886,6 +886,160 @@ Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime
   </tr>
 </table>
 
+### Use Case 402
+<table>
+  <tr>
+   <td><strong>Use Case ID</strong>
+   </td>
+   <td>UC402: Provide Customer details 
+   </td>
+  </tr>
+  <tr>
+   <td><strong>User Story</strong>
+   </td>
+   <td><strong>As a</strong> customer, <strong>I want to</strong> give details of what I am looking for when first calling <strong>so I can</strong> get the correct service provided by the CMC
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Goal </strong>
+   </td>
+   <td>Provide better service and customer experience.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Priority </strong>
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Actors</strong>
+   </td>
+   <td>Primary Actor - Customer
+<p>
+Secondary Actor - Call Management Centre (CMC), Relationship Manager (RM)
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pre-conditions</strong>
+   </td>
+   <td>
+<ul>
+
+<li>Customer should have access to a telephone.
+
+<li>Customer should have reception
+
+<li>Customer should have plans in mind: locations, duration, budget etc 
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The Customer has provided and confirmed their details.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>Customer Calls to inquire 
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Main Flow</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The customer dials the phone number via their telephone
+
+<li>The Call Management Centre answers the call 
+
+<li>The customer provides Name, Phone Number, Email Address, and desired travel destination package 
+
+<li>Call Management Centre records customers details 
+
+<li>Customer confirms the details by dialling “1”
+
+<li>Call Management Centre creates the Customer’s profile 
+
+<li>Using the Profiler tool, CMC matches the customer with the Appropriate RM and presses “redirect” 
+
+<li>Relationship Manager receives a notification and begins to serve the customer 
+
+<li>The use case ends
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>Exception 1: Steps 5-7: If the customer hangs up the call at any point, customer details and holiday information are retained for 3 working days, then deleted.
+<p>
+Exception 2: Step 1: if the phone lines are inactive and the phone lines are down.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Includes/Extends/Inherits</strong>
+   </td>
+   <td>Includes “UC401 Calling Travel Company”
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Supporting Information</strong>
+   </td>
+   <td>Customer’s details and holiday plans needs to be stored onto a central server.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Non-functional Requirements</strong>
+   </td>
+   <td>Performance: Be connected to a Relationship Manager in under 10 mins
+<p>
+Security: The call must be secure as details conversed are highly sensitive and personal
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td><strong>Alternate Flow 1</strong>
+   </td>
+   <td>N/A
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>N/A
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Step</strong>
+   </td>
+   <td>N/A
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>N/A
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>N/A
+   </td>
+  </tr>
+</table>
+
+
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
