@@ -35,6 +35,7 @@ ___
 [Collaborative/Sequence Diagrams](#collaborativesequence-diagrams)  
 [Use Case Diagram](#Use-Case-Diagram)   
 [Class Diagram](#Class-Diagram)
+[UI Mockups](#UI-Mockups)
 
 
 **Appendix**   
