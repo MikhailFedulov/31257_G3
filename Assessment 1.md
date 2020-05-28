@@ -167,6 +167,10 @@ ___
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
 
+### CMC Manager Empathy Map
+![CMC Manager empathy map](images/Empathy_Map_CMCManager.png)
+
+
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
