@@ -37,6 +37,9 @@ ___
 [Class Diagram](#Class-Diagram)  
 [UI Mockups](#UI-Mockups)
 
+**Solution Benefits and Project Failure Effects Section**  
+[Competitive Advantages](#Competitive-advantages)  
+[Project Failure Impact](#Project-Failure-Impact)
 
 **Appendix**   
 [Roleplay Interviews](#Stakeholder-Role-Play-Interviews)    
@@ -893,7 +896,7 @@ ___
   <tr>
    <td><strong>Use Case ID</strong>
    </td>
-   <td>UC402: Provide Customer details 
+   <td>UC402: Provide Customer details
    </td>
   </tr>
   <tr>
@@ -932,7 +935,7 @@ Secondary Actor - Call Management Centre (CMC), Relationship Manager (RM)
 
 <li>Customer should have reception
 
-<li>Customer should have plans in mind: locations, duration, budget etc 
+<li>Customer should have plans in mind: locations, duration, budget etc
 </li>
 </ul>
    </td>
@@ -946,7 +949,7 @@ Secondary Actor - Call Management Centre (CMC), Relationship Manager (RM)
   <tr>
    <td><strong>Trigger</strong>
    </td>
-   <td>Customer Calls to inquire 
+   <td>Customer Calls to inquire
    </td>
   </tr>
   <tr>
@@ -957,19 +960,19 @@ Secondary Actor - Call Management Centre (CMC), Relationship Manager (RM)
 
 <li>The customer dials the phone number via their telephone
 
-<li>The Call Management Centre answers the call 
+<li>The Call Management Centre answers the call
 
-<li>The customer provides Name, Phone Number, Email Address, and desired travel destination package 
+<li>The customer provides Name, Phone Number, Email Address, and desired travel destination package
 
-<li>Call Management Centre records customers details 
+<li>Call Management Centre records customers details
 
 <li>Customer confirms the details by dialling “1”
 
-<li>Call Management Centre creates the Customer’s profile 
+<li>Call Management Centre creates the Customer’s profile
 
-<li>Using the Profiler tool, CMC matches the customer with the Appropriate RM and presses “redirect” 
+<li>Using the Profiler tool, CMC matches the customer with the Appropriate RM and presses “redirect”
 
-<li>Relationship Manager receives a notification and begins to serve the customer 
+<li>Relationship Manager receives a notification and begins to serve the customer
 
 <li>The use case ends
 </li>
@@ -1059,6 +1062,38 @@ ___
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___  
+
+## Competitive advantages and possible effects if the project fails  
+### Competitive advantages
+The proposed solution implementation outlined within this report will greatly increase the companies standing against competitors for a number of reasons. In this section we will strive to explain these in depth.
+
+**Customer Representative Satisfaction**  
+Our solution incorporates a number of extremely beneficial features for customers. Now when utilizing the proposed solution customers can be confident in the CMC’s ability to provide personally tailored support for all their travel package needs. They will always be connected with representatives well versed in their particular area of enquiry, resulting in increased likelihood of enriched interaction and perception of the service the business provides.
+
+**Wait time stress alleviation via IVR**  
+Another aspect of the proposed solution that will increase customer satisfaction is seen in the implementation of the IVR (Interactive Voice Response) system, This will alleviate the common stress caused by increased wait times in busy periods. The IVR will facilitate customers with basic enquiries negating their need for RM interaction inherently drastically reducing their wait time and positively impacting satisfaction. Similarly customers with detailed enquiries will be guided by the IVR and allow for greater information extraction of their current enquiry. This will give RM’s the knowledge required to provide a higher level of efficient service hopefully reducing the customers call time and in tandem improving their satisfaction even in an extended wait time scenario.
+
+**Increased confidence in RM sales numbers**  
+Due to the new proposed RM to customer matching system. We can ensure RM’s are always in a strong position to secure sales utilizing their strengths without the stress of functioning in weak areas. Customers always respond well to representatives with perceived drive and interest common to their own and therefore are far more likely to trust in our company to provide them the necessary service for their needs, something unique to our proposed solution and a strong tool in securing clients over competitors.
+
+**relationship development of return customers**  
+Similarly with the inclusion of our customer RM history implementation, returning customers will be capable of forming strong trust in their ongoing representative , as if they were previously pleased with the service provided, the solution will facilitate the reconnection of past RM to the Customer. This building of relationship will secure the loyalty of return customers resulting in an undeniable advantage in the competitor landscape.
+
+**Sales tracking for informed decision making**  
+The solution provides robust tools for the CMC manager to monitor current figures and work efficiency such as daily, monthly and annual sales figures reports as well figures based on individuals performance. This powerful toolset allows the CMC managers to identify weak links in the system and remove them for reduced cost to the business as well as increased efficiency in functioning. Similarly CMC managers will now be capable of providing empirical and confident feedback to the executive team of the CMC’s ongoing performance further increasing the information available to executive members in important decision scenarios.
+
+**Realtime Management Toolset**  
+The addition of real time monitoring capabilities of CMC managers(RM status, current incoming calls etc.) facilitates agile workflow with drastically improved control of flexibility in times of increased system stress. Managers will now always have a finger on the pulse of the CMC department and will be capable of reassigning RM’s efficiently to maximize the flow of processes. This will have a direct positive impact on potential sales in the future as well as decrease the overhead of unused or mishandled resources in direct response to demand.
+
+**Strong persistent outward client sourcing**  
+The introduction of the tailored call list for RM’s will ensure the mitigation in stagnation of the client pool. With a persistent outward search for new customers the proposed solution can drastically expand the Travel companies reach and exponentially grow the incoming rate of new customers to the business. This consistent pursuit outside of the established client pool will provide the edge required to stay highly competitive in the travel market.
+
+### Project Failure Impact
+If the proposed project were to fail it could have strong lasting impact on the longevity of the CMC department. Without a move to this far more tailored and agile system, the company could see catastrophic impact on their place in the market. A competitor that is capable of adapting to a similar approach as that proposed could easily drive the company into obsolesce as a result of a highly populated competitor market and a general shift towards personalized service within the travel industry. Furthermore without the solution the company will see very little to no improvement in the CMC department functionality compounding the increased risk in market obsolesce.
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
 
 
 ## Appendix
