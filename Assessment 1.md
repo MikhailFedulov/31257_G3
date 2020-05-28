@@ -906,6 +906,8 @@ ___
 ## Collaborative/Sequence Diagrams
 ### Use Case 303
 ![Sequence diagram UC 303](images/Use_Case_303_Sequence_Diagram.png)
+### Use Case UC402  
+![Sequence diagram UC 402](images/UC402-SequenceDiagram.png)
 
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
@@ -926,6 +928,18 @@ ___
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
+
+## UI Mockups
+### Notification UI
+![Notification UI](images/UI-Notification.JPG)
+### Sales Dashboard UI
+![Sales Dashboard UI](images/UI-Sales-Dashboard.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___  
+
+
 ## Appendix
 
 ## Stakeholder Role Play Interviews
