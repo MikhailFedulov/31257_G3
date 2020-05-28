@@ -34,7 +34,7 @@ ___
 [Activity Diagrams](#Activity-Diagrams)  
 [Collaborative/Sequence Diagrams](#collaborativesequence-diagrams)  
 [Use Case Diagram](#Use-Case-Diagram)   
-[Class Diagram](#Class-Diagram)
+[Class Diagram](#Class-Diagram)  
 [UI Mockups](#UI-Mockups)
 
 
