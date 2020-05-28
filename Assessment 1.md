@@ -29,15 +29,13 @@ ___
 [User Story Backlog](#User-Story-Backlog)  
 [Approach to Project Solution](#Approach-to-Project-Solution)  
 
-**Use Case/Activity Diagram Section**  
-[Use Case Narratives and Activity Diagrams](#Use-Case-Narratives)
-[Use Case Diagram](#Use-Case-Diagram)
-[Use Case 303](#Use-Case-303)
-[Use Case 103](#Use-Case-103)
-[Use Case 101](#Use-Case-101)
-
-**Data Modelling Section**    
-[Class Diagram](#Class-Diagram)
+**Data Modelling Section**   
+[Use Case Narratives](#Use-Case-Narratives)  
+[Activity Diagrams](#Activity-Diagrams)  
+[Collaborative/Sequence Diagrams](#collaborativesequence-diagrams)  
+[Use Case Diagram](#Use-Case-Diagram)   
+[Class Diagram](#Class-Diagram)  
+[UI Mockups](#UI-Mockups)
 
 
 **Appendix**   
@@ -170,6 +168,10 @@ ___
 ### Customer Empathy Map
 ![Customer empathy map](images/Empathy_Map_Customer.png)
 
+### CMC Manager Empathy Map
+![CMC Manager empathy map](images/Empathy_Map_CMCManager.png)
+
+
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
@@ -294,8 +296,8 @@ To further understand the problem areas the team developed a series of How-Might
 ___
 
 
-## Brainstorm 
-After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem. 
+## Brainstorm
+After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem.
 
 
 ### Suggestions / Ideas:
@@ -305,12 +307,12 @@ After all key stakeholders have been identified and their needs understood the t
 * Disadvantages - It can cause duplication, Larger program size, Slower programs
 
 
-**Idea 2:** Cloud Computing technologies 
+**Idea 2:** Cloud Computing technologies
 * Advantages - Easy implementation, Accessibility, No hardware required, Flexibility for growth
 
 * Disadvantages - May not get all the features, Low level of control, Bandwidth issues
 
-**Final Decision:** Both, Idea 1 and Idea 2 follow best modern practices for system development. It is likely that the stakeholder majority will support both ideas and the Project Team will be involved in the implementation process. 
+**Final Decision:** Both, Idea 1 and Idea 2 follow best modern practices for system development. It is likely that the stakeholder majority will support both ideas and the Project Team will be involved in the implementation process.
 
 
 **Action Items:** Communicate both ideas with all stakeholder groups with the Project team designate action items to each individual present so that someone is directly responsible for following up during the brainstorming session.
@@ -320,11 +322,6 @@ ___
 
 
 ## Use Case Narratives
-
-### Use Case Diagram
-
-![Use Case Diagram](images/UseCaseDiagram.jpg)
-
 ### Use Case 303
 <table>
   <tr>
@@ -552,7 +549,7 @@ E2.Steps 1-4 – The CMC system crashes
   </tr>
 </table>
 
-#### Activity Diagram (UC303)
+___
 
 ### Use Case 103
 <table>
@@ -565,7 +562,7 @@ E2.Steps 1-4 – The CMC system crashes
   <tr>
    <td><strong>User Story</strong>
    </td>
-   <td>US202 As a System Admin, I want to modify the threshold at which customers are directed to the Interactive Voice Response (IVR) so that I can optimise the CMC performance and keep customers on the line and engaged. 
+   <td>US202 As a System Admin, I want to modify the threshold at which customers are directed to the Interactive Voice Response (IVR) so that I can optimise the CMC performance and keep customers on the line and engaged.
    </td>
   </tr>
   <tr>
@@ -605,7 +602,7 @@ The System Admin has valid credentials
   <tr>
    <td><strong>Trigger</strong>
    </td>
-   <td>The System Admin logs in to the CMC System application. 
+   <td>The System Admin logs in to the CMC System application.
    </td>
   </tr>
   <tr>
@@ -652,7 +649,7 @@ E2. Steps 1-9 – The CMC application crashes.
   <tr>
    <td><strong>Supporting Information</strong>
    </td>
-   <td>CallManagement and IVR details need to be stored on a central server. 
+   <td>CallManagement and IVR details need to be stored on a central server.
 <p>
 An ‘invalid value’ may be any numerical value outside set ranges, or any value entered in an invalid format (i.e. containing letters, non-whole number).
    </td>
@@ -713,9 +710,7 @@ E2. Steps 1-3 – The CMC application crashes.
   </tr>
 </table>
 
-#### Activity Diagram (UC103)
-
-![Activity Diagram UC 103](images/ActivityDiagramUC103v2.png)
+___
 
 ### Use Case 101
 <table>
@@ -891,8 +886,37 @@ Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime
   </tr>
 </table>
 
-#### Activity Diagram (UC101)
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
+
+## Activity Diagrams
+### Use Case 303
+![Activity Diagram UC 303](images/UC303ActivityDiagramJett.png)
+### Use Case 103
+![Activity Diagram UC 103](images/ActivityDiagramUC103v2.png)
+### Use Case 101
 ![Activity Diagram UC 101](images/ActivityDiagramUC101.jpg)
+### Use Case 402
+![Activity Diagram UC 402](images/UC402-ActivityDiagram.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
+
+## Collaborative/Sequence Diagrams
+### Use Case 303
+![Sequence diagram UC 303](images/Use_Case_303_Sequence_Diagram.png)
+### Use Case UC402  
+![Sequence diagram UC 402](images/UC402-SequenceDiagram.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
+
+### Use Case Diagram
+
+![Use Case Diagram](images/UseCaseDiagram.jpg)
 
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
@@ -905,6 +929,18 @@ ___
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
+
+## UI Mockups
+### Notification UI
+![Notification UI](images/UI-Notification.JPG)
+### Sales Dashboard UI
+![Sales Dashboard UI](images/UI-Sales-Dashboard.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___  
+
+
 ## Appendix
 
 ## Stakeholder Role Play Interviews
