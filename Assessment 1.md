@@ -625,7 +625,7 @@ The System Admin has valid credentials
 
 <li>The System Admin clicks on the confirm button. If an ‘invalid value’ is entered, refer to <strong>Alternate Flow 1 ‘Invalid Value Entered’</strong>.
 
-<li>The system displays a confirmation dialogue confirming that the threshold has been updated with the new value.
+<li>The system displays a confirmation dialog box confirming that the threshold has been updated with the new value.
 
 <li>The use case ends.
 </li>
@@ -685,7 +685,7 @@ Performance: Immediate system responsiveness to change.
    <td>
 <ol>
 
-<li>The system displays an error dialogue stating that ‘The value entered is not valid. Please enter a valid figure.’, and the new threshold value text field is cleared.
+<li>The system displays an error dialog box stating that ‘The value entered is not valid. Please enter a valid figure.’, and the new threshold value text field is cleared.
 
 <li>The System Admin acknowledges the error.
 
@@ -907,6 +907,8 @@ ___
 ## Collaborative/Sequence Diagrams
 ### Use Case 303
 ![Sequence diagram UC 303](images/Use_Case_303_Sequence_Diagram.png)
+### Use Case 103
+![Sequence diagram UC 103](images/SequenceDiagramUC103.png)
 ### Use Case UC402  
 ![Sequence diagram UC 402](images/UC402-SequenceDiagram.png)
 
@@ -931,10 +933,20 @@ ___
 ___
 
 ## UI Mockups
+### Login Page UI
+![Login Page UI](images/Login.png)
 ### Notification UI
 ![Notification UI](images/UI-Notification.JPG)
 ### Sales Dashboard UI
 ![Sales Dashboard UI](images/UI-Sales-Dashboard.png)
+### RM Registration UI
+![RM Registration UI](images/RM_Registration.png)
+### System Admin Home UI
+![System Admin Home UI](images/System_Admin_Home.png)
+### IVR Management UI
+![IVR Management UI](images/IVR_Management.png)
+### Threshold Editor Dialog UI
+![Threshold Editor Dialog UI](images/Threshold_Management.png)
 
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
