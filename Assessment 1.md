@@ -37,8 +37,13 @@ ___
 [Class Diagram](#Class-Diagram)  
 [UI Mockups](#UI-Mockups)
 
+**Solution Benefits and Project Failure Effects Section**  
+[Competitive Advantages](#Competitive-advantages)  
+[Project Failure Impact](#Project-Failure-Impact)
 
 **Appendix**   
+[GitHub Repository Link](#GitHub-Repository-Link)  
+[Google Drive Link](#Google-Drive-Link)  
 [Roleplay Interviews](#Stakeholder-Role-Play-Interviews)    
 
 </div>
@@ -886,6 +891,126 @@ Exception2. Steps 1-7 – Relationship Manager closes the browser window anytime
   </tr>
 </table>
 
+___
+
+### Use Case 402
+<table>
+  <tr>
+   <td><strong>Use Case ID</strong>
+   </td>
+   <td>UC402: Provide Customer details
+   </td>
+  </tr>
+  <tr>
+   <td><strong>User Story</strong>
+   </td>
+   <td><strong>As a</strong> customer, <strong>I want to</strong> give details of what I am looking for when first calling <strong>so I can</strong> get the correct service provided by the CMC
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Goal </strong>
+   </td>
+   <td>Provide better service and customer experience.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Priority </strong>
+   </td>
+   <td>High
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Actors</strong>
+   </td>
+   <td>Primary Actor - Customer
+<p>
+Secondary Actor - Call Management Centre (CMC), Relationship Manager (RM)
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pre-conditions</strong>
+   </td>
+   <td>
+<ul>
+
+<li>Customer should have access to a telephone.
+
+<li>Customer should have reception
+
+<li>Customer should have plans in mind: locations, duration, budget etc
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Post-conditions</strong>
+   </td>
+   <td>The Customer has provided and confirmed their details.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Trigger</strong>
+   </td>
+   <td>Customer Calls to inquire
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Main Flow</strong>
+   </td>
+   <td>
+<ol>
+
+<li>The customer dials the phone number via their telephone
+
+<li>The Call Management Centre answers the call
+
+<li>The customer provides Name, Phone Number, Email Address, and desired travel destination package
+
+<li>Call Management Centre records customers details
+
+<li>Customer confirms the details by dialling “1”
+
+<li>Call Management Centre creates the Customer’s profile
+
+<li>Using the Profiler tool, CMC matches the customer with the Appropriate RM and presses “redirect”
+
+<li>Relationship Manager receives a notification and begins to serve the customer
+
+<li>The use case ends
+</li>
+</ol>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Exceptions</strong>
+   </td>
+   <td>Exception 1: Steps 5-7: If the customer hangs up the call at any point, customer details and holiday information are retained for 3 working days, then deleted.
+<p>
+Exception 2: Step 1: if the phone lines are inactive and the phone lines are down.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Includes/Extends/Inherits</strong>
+   </td>
+   <td>Includes “UC401 Calling Travel Company”
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Supporting Information</strong>
+   </td>
+   <td>Customer’s details and holiday plans needs to be stored onto a central server.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Non-functional Requirements</strong>
+   </td>
+   <td>Performance: Be connected to a Relationship Manager in under 10 mins
+<p>
+Security: The call must be secure as details conversed are highly sensitive and personal
+   </td>
+  </tr>
+</table>
+
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
@@ -952,41 +1077,82 @@ ___
 
 ___  
 
+## Competitive advantages and possible effects if the project fails  
+### Competitive advantages
+The proposed solution implementation outlined within this report will greatly increase the companies standing against competitors for a number of reasons. In this section we will strive to explain these in depth.
+
+**Customer Representative Satisfaction**  
+Our solution incorporates a number of extremely beneficial features for customers. Now when utilizing the proposed solution customers can be confident in the CMC’s ability to provide personally tailored support for all their travel package needs. They will always be connected with representatives well versed in their particular area of enquiry, resulting in increased likelihood of enriched interaction and perception of the service the business provides.
+
+**Wait time stress alleviation via IVR**  
+Another aspect of the proposed solution that will increase customer satisfaction is seen in the implementation of the IVR (Interactive Voice Response) system, This will alleviate the common stress caused by increased wait times in busy periods. The IVR will facilitate customers with basic enquiries negating their need for RM interaction inherently drastically reducing their wait time and positively impacting satisfaction. Similarly customers with detailed enquiries will be guided by the IVR and allow for greater information extraction of their current enquiry. This will give RM’s the knowledge required to provide a higher level of efficient service hopefully reducing the customers call time and in tandem improving their satisfaction even in an extended wait time scenario.
+
+**Increased confidence in RM sales numbers**  
+Due to the new proposed RM to customer matching system. We can ensure RM’s are always in a strong position to secure sales utilizing their strengths without the stress of functioning in weak areas. Customers always respond well to representatives with perceived drive and interest common to their own and therefore are far more likely to trust in our company to provide them the necessary service for their needs, something unique to our proposed solution and a strong tool in securing clients over competitors.
+
+**relationship development of return customers**  
+Similarly with the inclusion of our customer RM history implementation, returning customers will be capable of forming strong trust in their ongoing representative , as if they were previously pleased with the service provided, the solution will facilitate the reconnection of past RM to the Customer. This building of relationship will secure the loyalty of return customers resulting in an undeniable advantage in the competitor landscape.
+
+**Sales tracking for informed decision making**  
+The solution provides robust tools for the CMC manager to monitor current figures and work efficiency such as daily, monthly and annual sales figures reports as well figures based on individuals performance. This powerful toolset allows the CMC managers to identify weak links in the system and remove them for reduced cost to the business as well as increased efficiency in functioning. Similarly CMC managers will now be capable of providing empirical and confident feedback to the executive team of the CMC’s ongoing performance further increasing the information available to executive members in important decision scenarios.
+
+**Realtime Management Toolset**  
+The addition of real time monitoring capabilities of CMC managers(RM status, current incoming calls etc.) facilitates agile workflow with drastically improved control of flexibility in times of increased system stress. Managers will now always have a finger on the pulse of the CMC department and will be capable of reassigning RM’s efficiently to maximize the flow of processes. This will have a direct positive impact on potential sales in the future as well as decrease the overhead of unused or mishandled resources in direct response to demand.
+
+**Strong persistent outward client sourcing**  
+The introduction of the tailored call list for RM’s will ensure the mitigation in stagnation of the client pool. With a persistent outward search for new customers the proposed solution can drastically expand the Travel companies reach and exponentially grow the incoming rate of new customers to the business. This consistent pursuit outside of the established client pool will provide the edge required to stay highly competitive in the travel market.
+
+### Project Failure Impact
+If the proposed project were to fail it could have strong lasting impact on the longevity of the CMC department. Without a move to this far more tailored and agile system, the company could see catastrophic impact on their place in the market. A competitor that is capable of adapting to a similar approach as that proposed could easily drive the company into obsolesce as a result of a highly populated competitor market and a general shift towards personalized service within the travel industry. Furthermore without the solution the company will see very little to no improvement in the CMC department functionality compounding the increased risk in market obsolesce.
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
+___
+
 
 ## Appendix
 
-## Stakeholder Role Play Interviews
+### GitHub Repository Link
+The link provided below will route directly to the GitHub Repository for the project ( An added precaution if necessary)   
+ https://github.com/MikhailFedulov/31257_G3
 
-### Interviewer Questions
-### Generic
-#### Introductory Questions
+### Google Drive link  
+The link provided below will allow access to the groups shared Google Drive folder wherein individual report component files are present
+ https://drive.google.com/drive/folders/1bQLglrNnpQsdbbix03REfL4v0F10OOZj?usp=sharing
+
+
+### Stakeholder Role Play Interviews
+
+#### Interviewer Questions
+#### Generic
+##### Introductory Questions
 1. Good Afternoon I’m (name), I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?
 2. To start off, how are you?
 
-#### Generic for both stakeholders
+##### Generic for both stakeholders
 3. What do you primarily use our service for?
 4. What is your biggest issue with the current system of call management?
 5. Are there any aspects of the current system you wish to remain intact in the change?
 6. What is the most important thing you would like to see added in the new system?
 7. What is your biggest concern with the proposed project?
 
-#### RM Specific Questions
+##### RM Specific Questions
 8. Do you think the implementation of the new system will have noticeable hindrance to productivity during the change period ?
 9. How comfortable are you learning a new system and are there any actions that can be taken to ease this transition?
 10. What criteria do you think will be important in the grouping of RM speciality?
 11. Do you think matching Customers to you based on perceived knowledge will improve call efficiency?
 
-#### Customer specific
+##### Customer specific
 8. What do you look for in a call experience?
 9. Currently how satisfied are you with the call time required for booking?
 10. On a scale of 1-10 how satisfied are you with our call representatives knowledge of what you’re seeking?
 11. What are some of the pain points you have experienced during the booking process?
 
-#### Closing formalities
+##### Closing formalities
 Thank You so much for your time today, your feedback will be a great
 help and will allow us to continue to provide a fantastic service.
 
-### RM Interview Script
+#### RM Interview Script
 **Interviewer:** Good Afternoon I’m Hugh, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do
 you mind if I ask you a few questions today?  
 _**RM:** Not at all go ahead_  
@@ -1014,7 +1180,7 @@ _**RM:** Oh definitely, If I’m more confident in the area the customer is look
 **Interviewer:** Thank You so much for your time today, your feedback will be a great help and We’ll ensure it is all considered in the new systems development, have a great day  
 _**RM:** Thank you, you too_
 
-### Customer Interview Script
+#### Customer Interview Script
 **Interviewer:** Good Afternoon I’m Jett, I’m contacting you to get some opinions on a proposed change to our CMS(Call management System) . Do you mind if I ask you a few questions today?  
 _**RM:** No that’s quite alright_  
 **Interviewer:** To start off, how are you?  
@@ -1041,14 +1207,14 @@ _**RM:** Like I said before, the negative areas are generally based around wait 
 **Interviewer:** Thank You so much for your time today, your feedback will be a great help and will allow us to continue to provide a fantastic service  
 _**RM:** Glad to have helped!_
 
-### RM Interview Screenshots  
+#### RM Interview Screenshots  
 ![RM 1](images/interview_RM/RM_1.png)
 ![RM 2](images/interview_RM/RM_2.png)
 ![RM 3](images/interview_RM/RM_3.png)
 ![RM 4](images/interview_RM/RM_4.png)
 
 
-### Customer Interview Screenshots
+#### Customer Interview Screenshots
 ![Customer 1](images/interview_customer/Customer_1.png)
 ![Customer 2](images/interview_customer/Customer_2.png)
 ![Customer 3](images/interview_customer/Customer_3.png)
