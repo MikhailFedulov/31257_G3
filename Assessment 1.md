@@ -315,13 +315,13 @@ After all key stakeholders have been identified and their needs understood the t
 * Advantages - Accelerated access to financial records for varios periods (day/week/month/year etc.), Automated revenue calculation, Reduced pressure on Finance & Tax teams
 * Disadvantages - Additional sub-system to handle, IT team overhead, Additional costs, Requires more computational powers 
 
-Final Decision: 
+**Final Decision:**
 
 After discovering stakeholder needs follow by How-Might-We statements from MTC executive team and Relationship Managers about customers processing time and costs reduction, Idea 1 was formed. It was understood that RMs experiencing extra pressure on processing customer requests during busy periods which impacts their performance. IVR would be able to recognise customer requestions before they they are passed on to RMs and therefore direct calls to RMs with suitable expertise to solve their queries. 
 
 Idea 2 was formed based on MTC Management team and CMC Management to minimise costs and have a transparency in financial recordings within the organisation.  
 
-Action Items:  It is likely that the stakeholder majority will support both ideas, however, they needs to be clearly communicated to the stakeholder groups to ensure they are understand the implications and don’t have any objections against the proposed solutions.
+**Action Items:**  It is likely that the stakeholder majority will support both ideas, however, they needs to be clearly communicated to the stakeholder groups to ensure they are understand the implications and don’t have any objections against the proposed solutions.
 
 ___
 
