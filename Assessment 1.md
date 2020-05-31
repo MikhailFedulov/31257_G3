@@ -300,28 +300,28 @@ To further understand the problem areas the team developed a series of How-Might
 
 ___
 
-
 ## Brainstorm
-After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem.
+After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem. 
+
 
 
 ### Suggestions / Ideas:
 
-**Idea 1:** Object Oriented Programming to be used for system development
-* Advantages - Modularity for easier troubleshooting, Reuse of code through inheritance, Flexibility through polymorphism, Effective problem solving
-* Disadvantages - It can cause duplication, Larger program size, Slower programs
+**Idea 1:** Interactive Voice Response (IVR) sub-system
+* Advantages - Fast response to customers, Able to process and direct customer requests faster, Reduced pressure on RMs
+* Disadvantages - Additional sub-system, Additional costs, Customers perception of IVR systems
 
+**Idea 2:** Sales History
+* Advantages - Accelerated access to financial records for varios periods (day/week/month/year etc.), Automated revenue calculation, Reduced pressure on Finance & Tax teams
+* Disadvantages - Additional sub-system to handle, IT team overhead, Additional costs, Requires more computational powers 
 
-**Idea 2:** Cloud Computing technologies
-* Advantages - Easy implementation, Accessibility, No hardware required, Flexibility for growth
+Final Decision: 
 
-* Disadvantages - May not get all the features, Low level of control, Bandwidth issues
+After discovering stakeholder needs follow by How-Might-We statements from MTC executive team and Relationship Managers about customers processing time and costs reduction, Idea 1 was formed. It was understood that RMs experiencing extra pressure on processing customer requests during busy periods which impacts their performance. IVR would be able to recognise customer requestions before they they are passed on to RMs and therefore direct calls to RMs with suitable expertise to solve their queries. 
 
-**Final Decision:** Both, Idea 1 and Idea 2 follow best modern practices for system development. It is likely that the stakeholder majority will support both ideas and the Project Team will be involved in the implementation process.
+Idea 2 was formed based on MTC Management team and CMC Management to minimise costs and have a transparency in financial recordings within the organisation.  
 
-
-**Action Items:** Communicate both ideas with all stakeholder groups with the Project team designate action items to each individual present so that someone is directly responsible for following up during the brainstorming session.
-
+Action Items:  It is likely that the stakeholder majority will support both ideas, however, they needs to be clearly communicated to the stakeholder groups to ensure they are understand the implications and don’t have any objections against the proposed solutions.
 
 ___
 
