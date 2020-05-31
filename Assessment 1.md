@@ -221,8 +221,8 @@ ___
 |  **CMC Manager** |  |  |  |  |  |  |  |
 |  301 | CMC Manager | be provided with high level reports of CMC performance | I can monitor performance and make strategic decisions | 5 | High | Epic | Sales Review |
 |  302 | CMC Manager | view individual RM sales history | I can monitor RM performance on an individual basis | 5 | Medium | Story | Sales Review |
-|  303 | CMC Manager | create an RM account | employees no longer working for the company cannot access the system | 8 | High | Story | RM Account Management |
-|  304 | CMC Manager | deactivate an RM account | RM's have a profile to utilise the system | 2 | Medium | Story | Rm Account Management |
+|  303 | CMC Manager | create an RM account | RM's have a profile to utilise the system| 8 | High | Story | RM Account Management |
+|  304 | CMC Manager | deactivate an RM account | employees no longer working for the company cannot access the system  | 2 | Medium | Story | Rm Account Management |
 |  305 | CMC Manager | view the current status of each RM (on call, waiting, performing outgoing calls, on break etc.) | I can manage the RMs in changing times of demand | 3 | Medium | Story | Call Facilitation |
 |  306 | CMC Manager | view a list of the days sales | I can review the daily earnings | 2 | Low | Story | Sales Review |
 |  307 | CMC Manager | view a list of the monthly sales | I can review the monthly earnings | 3 | Medium | Story | Sales Review |
