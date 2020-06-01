@@ -1033,7 +1033,7 @@ ___
 ### Use Case 303
 ![Sequence diagram UC 303](images/Use_Case_303_Sequence_Diagram.png)
 ### Use Case 103
-![Sequence diagram UC 103](images/SequenceDiagramUC103.png)
+![Sequence diagram UC 103](images/SequenceDiagramUC103v2.png)
 ### Use Case UC402  
 ![Sequence diagram UC 402](images/UC402-SequenceDiagram.png)
 
