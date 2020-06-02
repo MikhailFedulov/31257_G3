@@ -353,7 +353,7 @@ The team was able to quickly communicate with the client and understand individu
 **What could be improved:**
 Due to limited experience with the Design Thinking process the team spent longer than originally planned on the Empathise stage. This led to delays in other parts of the report development and general confusion amongst the team. In the future, the team should use this experience and plan accordingly to better manage client’s expectations. 
 
-Below are the objectives that were set for each iteration (See Appendix D for Trello Screenshots):
+Below are the objectives that were set for each iteration:
 ![Trello](images/Trello.png)
 ___
 
