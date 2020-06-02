@@ -114,6 +114,9 @@ Minimise costs of inbound calls
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
+## Stakeholder Analysis
+To determine the project scope and requirements the team has identified a list of key stakeholders which will be involved in the project. The team was able to define Point-of-Views for each of the stakeholder types as well as interest and influence table followed by empty maps. 
+
 ## Stakeholders POV
 
 ### Internal Stakeholders
@@ -147,6 +150,8 @@ __Investors/Shareholders__ Those that fund the companies ventures and have finan
 ___
 
 ## Stakeholder Analysis Table
+To better understand which stakeholders the team needs to engage the most the stakeholders interest and inflict table has been created. By prioritising stakeholders in this way, the team was able to clearly see how to communicate with stakeholders and keep them satisfied. 
+
 Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - Low)
 --- | --- | --- | ---
 **MTC Executive Team** | Overall profitability; Satisfaction of investors/shareholders; Achieving targets | Medium/High – have the final say regarding all financial and executive decisions on the project | 2 (High)
@@ -161,12 +166,16 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 
 ___
 ## Stakeholder Interest and Influence Grid
+The grid below is a visual representation of the table.
+
 ![Stakeholder Interest & Influence Grid](images/Stakeholder_Matrix_Complete_Revision1.png)
 
 <img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
 
 ___
 ## Stakeholder Empathy Maps
+Below are two empty maps that the team had developed to better understand Customer and RM’s position within the project. The team focused on those two types of stakeholders because they interact with the system the most and their interactions directly rely on the system performs. 
+
 ### RM Empathy Map
 ![RM empathy map](images/Empathy_Map_RM.png)
 
@@ -181,6 +190,8 @@ ___
 
 ___
 ## User Story Backlog
+After identifying the stakeholders’ needs and analysing their position and level of influence in the project, the team developed a backlog of all the key user stories which will be used to prototype and create the system. The backlog includes all seven stakeholder types and their needs summaries in the classic user story format. 
+
 |  **User Story #** | **As a/an** | **I want to...** | **So that...** | **Estimates** | **Priority** | **Story Type** | **Process/ Service** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  Example STORY | Staff Member | view a list of all devices in the system | find the product number for a listed device. | 5 | High | Story | Product Management |
@@ -303,8 +314,6 @@ ___
 ## Brainstorm
 After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem. 
 
-
-
 ### Suggestions / Ideas:
 
 **Idea 1:** Interactive Voice Response (IVR) sub-system
@@ -325,6 +334,52 @@ Idea 2 was formed based on MTC Management team and CMC Management to minimise co
 
 ___
 
+## Agile Methodology Utilization in Project Solution Development
+To produce this document, agile methodologies and Design Thinking steps were used by the team. This allowed the team to structure the approach to problem solving and information gathering. The development process was split into 4 iterations, each one week long, that were used to gather and analyse valuable insights. Early in the process the team establish communication channels with various stakeholders which accelerated the process of the information gathering. The team communicated clearly with all stakeholders throughout the 4 iterations to ensure transparency and accuracy of information exchanged. 
+
+As part of the design thinking step 2 the team conduct clients role play interviews, the script can be found in the Appendix C
+
+Below are the objectives that were set for each iteration.
+
+Sprint 1:
+Identify stakeholders 
+Define problem & Objectives 
+Empathy Map
+POVs
+Backlog
+Introduction
+Stakeholder power-interest Grid
+Questions to Stakeholders
+Assumptions 
+
+Sprint 2:
+List assumptions
+Prioritised Backlog
+Stakeholder interviews
+Finish POVs
+
+Spring 3:
+Competitive advantage
+Risks (possible effects if the project fails)
+Assumptions modify
+Explain agile methodology
+Workproducts 1 - develop Use Cases
+Workproducts 2 - develop Use Case Diagram
+Workproducts 3 - develop Activity Diagram 
+Workproducts 4 - develop Class Diagram
+Workproducts 5 - develop Collaborative diagram
+Workproducts 6 - develop UI mockups 
+
+Sprint 4:
+Finish Workproducts 1 - develop Use Cases
+Finish Workproducts 2 - develop Use Case Diagram
+Finish Workproducts 3 - develop Activity Diagram 
+Finish Workproducts 5 - develop Collaborative diagram
+Competitive advantage
+Design thinking principle
+Risks (possible effects if the project fails)
+
+___
 
 ## Use Case Narratives
 ### Use Case 303
