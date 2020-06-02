@@ -1046,7 +1046,7 @@ ___
 ### Use Case 103
 ![Activity Diagram UC 103](images/ActivityDiagramUC103v2.png)
 ### Use Case 101
-![Activity Diagram UC101](images/SequenceDiagram UC1012.jpg)
+![Activity Diagram UC101](mages/SDUC1013.png)
 ### Use Case 402
 ![Activity Diagram UC 402](images/UC402-ActivityDiagram.png)
 
