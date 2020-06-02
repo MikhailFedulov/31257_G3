@@ -185,7 +185,7 @@ The grid below is a visual representation of the table.
 
 ___
 ## Stakeholder Empathy Maps
-Below are two empty maps that the team had developed to better understand Customer and RM’s position within the project. The team focused on those two types of stakeholders because they interact with the system the most and their interactions directly rely on the system performs.
+Below are three empty maps that the team had developed to better understand Customer and RM’s position within the project. The team focused on those three types of stakeholders because they interact with the system the most and their interactions directly rely on the system performs.
 
 ### RM Empathy Map
 ![RM empathy map](images/Empathy_Map_RM.png)
