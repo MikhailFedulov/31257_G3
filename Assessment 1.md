@@ -871,12 +871,6 @@ Exception2. Steps 1-7 – passenger closes the browser window anytime.
    </td>
   </tr>
   <tr>
-   <td><strong>Includes/Extends/Inherits</strong>
-   </td>
-   <td>Includes<strong> “UC102: Pay Fare”</strong>
-<p>
-Extended by <strong>“UC103: Print Ticket”</strong>
-   </td>
   </tr>
   <tr>
    <td><strong>Supporting Information</strong>
