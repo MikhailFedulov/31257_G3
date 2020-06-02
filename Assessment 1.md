@@ -185,7 +185,7 @@ The grid below is a visual representation of the table.
 
 ___
 ## Stakeholder Empathy Maps
-Below are three empty maps that the team had developed to better understand Customer and RM’s position within the project. The team focused on those three types of stakeholders because they interact with the system the most and their interactions directly rely on the system performs.
+Below are three empathy maps that the team had developed to better understand Customer and RM’s position within the project. The team focused on those three types of stakeholders because they interact with the system the most and their interactions directly rely on the system performs.
 
 ### RM Empathy Map
 ![RM empathy map](images/Empathy_Map_RM.png)
@@ -1155,6 +1155,10 @@ ___
 
 
 ## Appendix
+
+### Video Presentation Link
+**Presentation Link**
+https://youtu.be/r9xBpy7krE8
 
 ### GitHub Repository Link
 The link provided below will route directly to the GitHub Repository for the project ( An added precaution if necessary)   
