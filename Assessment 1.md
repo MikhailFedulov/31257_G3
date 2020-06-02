@@ -1090,7 +1090,7 @@ ___
 ### Use Case 103
 ![Sequence diagram UC 103](images/SequenceDiagramUC103v2.png)
 ### Use Case 101
-![Sequence diagram UC 101](images/SequenceDiagramUC101)
+![Sequence diagram UC 101](images/SequenceDiagramUC101.jpg)
 ### Use Case UC402  
 ![Sequence diagram UC 402](images/UC402-SequenceDiagram.png)
 
