@@ -10,7 +10,7 @@ _12590143 (Mikhail Fedulov)_
 ![MTC Logo](images/MTC_Logo.png)
 
 ```diff
-- Disclaimer: There is a number of formatting issues present in the PDF version of this report there is a link provided to the online - - preview in the Github website. This version will present the report as intended, if any formatting errors inhibit marking, please - -- refer to this link for a properly formatted version 
+- Disclaimer: There is a number of formatting issues present in the PDF version of this report there is a link provided to the online - preview in the Github website. This version will present the report as intended, if any formatting errors inhibit marking, please refer - to this link for a properly formatted version 
 ```  
 
 **link here**
