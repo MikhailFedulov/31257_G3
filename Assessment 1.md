@@ -38,7 +38,7 @@ ___
 
 **Relection Sections**    
 [Approach to Project Solution](#Approach-to-Project-Solution)   
-[Brainstorm](#Brinstorm)  
+[Brainstorm](#Brainstorm)  
 [agile methodology implemented](#agile-methodology-utilization-in-project-solution-development)  
 
 
