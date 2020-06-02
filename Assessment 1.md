@@ -25,9 +25,8 @@ ___
 [Stakeholder Interest & Influence Grid](#Stakeholder-Interest-and-Influence-Grid)  
 [Stakeholder Empathy Maps](#Stakeholder-Empathy-Maps)  
 
-**User Story Backlog/Solution Approach Section**  
+**User Story Backlog Section**  
 [User Story Backlog](#User-Story-Backlog)  
-[Approach to Project Solution](#Approach-to-Project-Solution)  
 
 **Data Modelling Section**   
 [Use Case Narratives](#Use-Case-Narratives)  
@@ -36,6 +35,12 @@ ___
 [Use Case Diagram](#Use-Case-Diagram)   
 [Class Diagram](#Class-Diagram)  
 [UI Mockups](#UI-Mockups)
+
+**Relection Sections**    
+[Approach to Project Solution](#Approach-to-Project-Solution)   
+[Brainstorm](#Brinstorm)  
+[agile methodology implemented](#agile-methodology-utilization-in-project-solution-development)  
+
 
 **Solution Benefits and Project Failure Effects Section**  
 [Competitive Advantages](#Competitive-advantages)  
@@ -115,7 +120,7 @@ Minimise costs of inbound calls
 
 ___
 ## Stakeholder Analysis
-To determine the project scope and requirements the team has identified a list of key stakeholders which will be involved in the project. The team was able to define Point-of-Views for each of the stakeholder types as well as interest and influence table followed by empty maps. 
+To determine the project scope and requirements the team has identified a list of key stakeholders which will be involved in the project. The team was able to define Point-of-Views for each of the stakeholder types as well as interest and influence table followed by empty maps.
 
 ## Stakeholders POV
 
@@ -150,7 +155,7 @@ __Investors/Shareholders__ Those that fund the companies ventures and have finan
 ___
 
 ## Stakeholder Analysis Table
-To better understand which stakeholders the team needs to engage the most the stakeholders interest and inflict table has been created. By prioritising stakeholders in this way, the team was able to clearly see how to communicate with stakeholders and keep them satisfied. 
+To better understand which stakeholders the team needs to engage the most the stakeholders interest and inflict table has been created. By prioritising stakeholders in this way, the team was able to clearly see how to communicate with stakeholders and keep them satisfied.
 
 Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - Low)
 --- | --- | --- | ---
@@ -174,7 +179,7 @@ The grid below is a visual representation of the table.
 
 ___
 ## Stakeholder Empathy Maps
-Below are two empty maps that the team had developed to better understand Customer and RM’s position within the project. The team focused on those two types of stakeholders because they interact with the system the most and their interactions directly rely on the system performs. 
+Below are two empty maps that the team had developed to better understand Customer and RM’s position within the project. The team focused on those two types of stakeholders because they interact with the system the most and their interactions directly rely on the system performs.
 
 ### RM Empathy Map
 ![RM empathy map](images/Empathy_Map_RM.png)
@@ -190,7 +195,7 @@ Below are two empty maps that the team had developed to better understand Custom
 
 ___
 ## User Story Backlog
-After identifying the stakeholders’ needs and analysing their position and level of influence in the project, the team developed a backlog of all the key user stories which will be used to prototype and create the system. The backlog includes all seven stakeholder types and their needs summaries in the classic user story format. 
+After identifying the stakeholders’ needs and analysing their position and level of influence in the project, the team developed a backlog of all the key user stories which will be used to prototype and create the system. The backlog includes all seven stakeholder types and their needs summaries in the classic user story format.
 
 |  **User Story #** | **As a/an** | **I want to...** | **So that...** | **Estimates** | **Priority** | **Story Type** | **Process/ Service** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -312,7 +317,7 @@ To further understand the problem areas the team developed a series of How-Might
 ___
 
 ## Brainstorm
-After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem. 
+After all key stakeholders have been identified and their needs understood the team conducted a brainstorm session to identify possible solutions for the project. From the Point-of-View statements and interviews with the selected stakeholder representatives, the team was able to create a backlog which was used during the brainstorming activity. The primary objective of conducting the brainstorming activity was to find potential solutions for How-Might-We statements that were developed earlier. The team tried to answer those questions and provide actionable ideas to the client problem.
 
 ### Suggestions / Ideas:
 
@@ -322,39 +327,45 @@ After all key stakeholders have been identified and their needs understood the t
 
 **Idea 2:** Sales History
 * Advantages - Accelerated access to financial records for varios periods (day/week/month/year etc.), Automated revenue calculation, Reduced pressure on Finance & Tax teams
-* Disadvantages - Additional sub-system to handle, IT team overhead, Additional costs, Requires more computational powers 
+* Disadvantages - Additional sub-system to handle, IT team overhead, Additional costs, Requires more computational powers
 
 **Final Decision:**
 
-After discovering stakeholder needs follow by How-Might-We statements from MTC executive team and Relationship Managers about customers processing time and costs reduction, Idea 1 was formed. It was understood that RMs experiencing extra pressure on processing customer requests during busy periods which impacts their performance. IVR would be able to recognise customer requestions before they they are passed on to RMs and therefore direct calls to RMs with suitable expertise to solve their queries. 
+After discovering stakeholder needs follow by How-Might-We statements from MTC executive team and Relationship Managers about customers processing time and costs reduction, Idea 1 was formed. It was understood that RMs experiencing extra pressure on processing customer requests during busy periods which impacts their performance. IVR would be able to recognise customer requestions before they they are passed on to RMs and therefore direct calls to RMs with suitable expertise to solve their queries.
 
 Idea 2 was formed based on MTC Management team and CMC Management to minimise costs and have a transparency in financial recordings within the organisation.  
 
 **Action Items:**  It is likely that the stakeholder majority will support both ideas, however, they needs to be clearly communicated to the stakeholder groups to ensure they are understand the implications and don’t have any objections against the proposed solutions.
 
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 
+
 ## Agile Methodology Utilization in Project Solution Development
-The development process was split into 4 iterations, each one week long, that were used to gather and analyse valuable insights as well as generate a range of possible solutions. To produce this document, agile methodologies and Design Thinking steps were used by the team throughout all 4 iterations. By using the first three steps of the Design Thinking process (Empathise, Define, Ideate), the team was able to structure the approach to problem solving and information gathering. 
+The development process was split into 4 iterations, each one week long, that were used to gather and analyse valuable insights as well as generate a range of possible solutions. To produce this document, agile methodologies and Design Thinking steps were used by the team throughout all 4 iterations. By using the first three steps of the Design Thinking process (Empathise, Define, Ideate), the team was able to structure the approach to problem solving and information gathering.
 
-The team began DT Step 1 simultaneously with the first iteration. Early in the process the team established communication channels with various stakeholders which accelerated the process of the information gathering. During this phrase, the team communicated with the client and conducted client role play interviews (see Appendix C). Furthermore the team created empathy maps and prioritised the stakeholders to better understand the project landscape. 
+The team began DT Step 1 simultaneously with the first iteration. Early in the process the team established communication channels with various stakeholders which accelerated the process of the information gathering. During this phrase, the team communicated with the client and conducted client role play interviews (see Appendix C). Furthermore the team created empathy maps and prioritised the stakeholders to better understand the project landscape.
 
-During the Step 2 of the DT, the team was able to better understand the client’s situation and define the problem statement along with the project objectives. Additionally, Point-of-View statements were gathered from all stakeholders. 
+During the Step 2 of the DT, the team was able to better understand the client’s situation and define the problem statement along with the project objectives. Additionally, Point-of-View statements were gathered from all stakeholders.
 
-With Step 3 of the DT, the team began the ideation phase where ideas were generated, and How-Might-We statements produced. This stage defined what a potential solution might look like which will be passed on to the project implementation team. 
+With Step 3 of the DT, the team began the ideation phase where ideas were generated, and How-Might-We statements produced. This stage defined what a potential solution might look like which will be passed on to the project implementation team.
 
 
-The team communicated clearly with all stakeholders throughout the 4 iterations to ensure transparency and accuracy of the information exchanged. The Design Thinking process played a vital role in this report development and provided needed structure to comply with the best industry practices. 
+The team communicated clearly with all stakeholders throughout the 4 iterations to ensure transparency and accuracy of the information exchanged. The Design Thinking process played a vital role in this report development and provided needed structure to comply with the best industry practices.
 
 **What went well:**
-The team was able to quickly communicate with the client and understand individual stakeholder needs. Additionally, the team showed high efficiency in developing necessary workproducts for the project. 
+The team was able to quickly communicate with the client and understand individual stakeholder needs. Additionally, the team showed high efficiency in developing necessary workproducts for the project.
 
 
 **What could be improved:**
-Due to limited experience with the Design Thinking process the team spent longer than originally planned on the Empathise stage. This led to delays in other parts of the report development and general confusion amongst the team. In the future, the team should use this experience and plan accordingly to better manage client’s expectations. 
+Due to limited experience with the Design Thinking process the team spent longer than originally planned on the Empathise stage. This led to delays in other parts of the report development and general confusion amongst the team. In the future, the team should use this experience and plan accordingly to better manage client’s expectations.
 
 Below are the objectives that were set for each iteration:
 ![Trello](images/Trello.png)
+
+<img src="images/MTC_Logo.png" alt="MTC_Logo" width="10%" height="10%" align="left"/>
+
 ___
 
 ## Use Case Narratives
@@ -1046,7 +1057,7 @@ ___
 ### Use Case 103
 ![Activity Diagram UC 103](images/ActivityDiagramUC103v2.png)
 ### Use Case 101
-![Activity Diagram UC101](mages/SDUC1013.png)
+![Activity Diagram UC101](images/ActivityDiagramUC101new.jpg)
 ### Use Case 402
 ![Activity Diagram UC 402](images/UC402-ActivityDiagram.png)
 
@@ -1060,7 +1071,7 @@ ___
 ### Use Case 103
 ![Sequence diagram UC 103](images/SequenceDiagramUC103v2.png)
 ### Use Case 101
-![Sequence diagram UC 101](images/SequenceDiagram UC1012.jpg)
+![Sequence diagram UC 101](images/SequenceDiagramUC1012.jpg)
 ### Use Case UC402  
 ![Sequence diagram UC 402](images/UC402-SequenceDiagram.png)
 
