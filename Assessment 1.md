@@ -129,7 +129,7 @@ The **Relational Managers** are employees that currently work in the CMC departm
 * **CMC management**  
 The **CMC Management** is the personnel overseeing the CMC department. They are responsible for the efficient functioning of the travel companies call center operations. As they are also closely associated with the utilization of the finished CMC solution they will be consulted regularly alongside the RMs during project development. The CMC Management **needs** a solution that reduces the need for manual micromanagement of RM’s and improves their RMs’s confidence in sales calls **because** the overall functioning of the CMC is a direct reflection on them, an increase in proficiency will affirm their departments importance.
 
-* **Project Team**  
+* **Project Team/System Administrators**  
 The **project team** is a combination of internal and external resources and is responsible for the project implementation. They will be working closely with the other stakeholder during the project development. The project team **needs** to provide a solution which appeases all stakeholders needs **because** the quality and acceptance of the system will directly affect the  likelihood of their use in future projects.
 
 * **Other CMC employees (Business Analysts, IT department, Cyber Security ect.)**  
@@ -157,7 +157,7 @@ Stakeholder | Interests | Influence (High - Low) | Priority (1 - 3; Critical - L
 **MTC Executive Team** | Overall profitability; Satisfaction of investors/shareholders; Achieving targets | Medium/High – have the final say regarding all financial and executive decisions on the project | 2 (High)
 **Relationship Managers (RMs)** | Maintaining positive customer relationships; Maximising sales; Address needs of customers | High – with regard to their position influence is relatively minor. However, they are directly impacted in their ability to perform their role by new system so input from them is important | 1 (Critical)
 **CMC Managment Team** | Minimal disruption to services; Efficient allocation of resources (time, physical, monetary) | Medium – oversee the entirety of CMC (including RMs) and indirectly involved in rollout and maintenance of system | 2 (High)
-**Projects Team** | Satisfaction of user requirements; Smooth rollout of system; Adherence to development timeline | High – tasked with and responsible for the design and implementation of the new system | 1 (Critical)
+**Projects Team/System Administrators** | Satisfaction of user requirements; Smooth rollout of system; Adherence to development timeline | High – tasked with and responsible for the design and implementation of the new system | 1 (Critical)
 **Other CMC Employees** |System performance and agility; System accessibility and maintainability | Low -  Although, they are directly impacted in their ability to perform their role by new system they have little influence over the system configurations and options. |  3 (Low)
 **Customers** | Positive interactions; Minimal wait times | Medium/High – not directly involved with development process. However, customer interests and behaviours drive design decisions regarding new system | 1 (Critical)
 **Investors and Shareholders** | Maximising profits; Positive company image | Medium – must have needs met by proposed solution in order to receive funding | 2 (High)
