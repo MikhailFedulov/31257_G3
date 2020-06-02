@@ -335,49 +335,25 @@ Idea 2 was formed based on MTC Management team and CMC Management to minimise co
 ___
 
 ## Agile Methodology Utilization in Project Solution Development
-To produce this document, agile methodologies and Design Thinking steps were used by the team. This allowed the team to structure the approach to problem solving and information gathering. The development process was split into 4 iterations, each one week long, that were used to gather and analyse valuable insights. Early in the process the team establish communication channels with various stakeholders which accelerated the process of the information gathering. The team communicated clearly with all stakeholders throughout the 4 iterations to ensure transparency and accuracy of information exchanged. 
+The development process was split into 4 iterations, each one week long, that were used to gather and analyse valuable insights as well as generate a range of possible solutions. To produce this document, agile methodologies and Design Thinking steps were used by the team throughout all 4 iterations. By using the first three steps of the Design Thinking process (Empathise, Define, Ideate), the team was able to structure the approach to problem solving and information gathering. 
 
-As part of the design thinking step 2 the team conduct clients role play interviews, the script can be found in the Appendix C
+The team began DT Step 1 simultaneously with the first iteration. Early in the process the team established communication channels with various stakeholders which accelerated the process of the information gathering. During this phrase, the team communicated with the client and conducted client role play interviews (see Appendix C). Furthermore the team created empathy maps and prioritised the stakeholders to better understand the project landscape. 
 
-Below are the objectives that were set for each iteration.
+During the Step 2 of the DT, the team was able to better understand the client’s situation and define the problem statement along with the project objectives. Additionally, Point-of-View statements were gathered from all stakeholders. 
 
-Sprint 1:
-Identify stakeholders 
-Define problem & Objectives 
-Empathy Map
-POVs
-Backlog
-Introduction
-Stakeholder power-interest Grid
-Questions to Stakeholders
-Assumptions 
+With Step 3 of the DT, the team began the ideation phase where ideas were generated, and How-Might-We statements produced. This stage defined what a potential solution might look like which will be passed on to the project implementation team. 
 
-Sprint 2:
-List assumptions
-Prioritised Backlog
-Stakeholder interviews
-Finish POVs
 
-Spring 3:
-Competitive advantage
-Risks (possible effects if the project fails)
-Assumptions modify
-Explain agile methodology
-Workproducts 1 - develop Use Cases
-Workproducts 2 - develop Use Case Diagram
-Workproducts 3 - develop Activity Diagram 
-Workproducts 4 - develop Class Diagram
-Workproducts 5 - develop Collaborative diagram
-Workproducts 6 - develop UI mockups 
+The team communicated clearly with all stakeholders throughout the 4 iterations to ensure transparency and accuracy of the information exchanged. The Design Thinking process played a vital role in this report development and provided needed structure to comply with the best industry practices. 
 
-Sprint 4:
-Finish Workproducts 1 - develop Use Cases
-Finish Workproducts 2 - develop Use Case Diagram
-Finish Workproducts 3 - develop Activity Diagram 
-Finish Workproducts 5 - develop Collaborative diagram
-Competitive advantage
-Design thinking principle
-Risks (possible effects if the project fails)
+**What went well:**
+The team was able to quickly communicate with the client and understand individual stakeholder needs. Additionally, the team showed high efficiency in developing necessary workproducts for the project. 
+
+
+**What could be improved:**
+Due to limited experience with the Design Thinking process the team spent longer than originally planned on the Empathise stage. This led to delays in other parts of the report development and general confusion amongst the team. In the future, the team should use this experience and plan accordingly to better manage client’s expectations. 
+
+Below are the objectives that were set for each iteration (See Appendix D for Trello Screenshots):
 
 ___
 
